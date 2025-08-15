@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f2f2f2;
+  color: #333;
+}
+
+/* Header */
+header {
+  background: #ffcc00;
+  color: #000;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header .logo h1 {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+nav ul li a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: #fff;
+}
+
+/* Banner */
+.banner {
+  background: url('images/piano.webp') center/cover no-repeat;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.banner h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  font-size: 20px;
+}
+
+/* Buscador */
+#buscador {
+  text-align: center;
+  margin: 40px 0;
+}
+
+#busca-produto {
+  width: 80%;
+  max-width: 500px;
+  padding: 12px 20px;
+  font-size: 1.1em;
+  border-radius: 30px;
+  border: 2px solid #ccc;
+  transition: 0.3s;
+}
+
+#busca-produto:focus {
+  border-color: #ffcc00;
+}
+
+/* Categorias */
+#categorias {
+  padding: 20px;
+  background: #fff;
+  text-align: center;
+}
+
+#categorias h3 {
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+
+#menu-categorias {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+#menu-categorias button {
+  background: #ffcc00;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#menu-categorias button:hover {
+  background: #e6b800;
+}
+
+/* Lista de produtos */
+.produtos {
+  background: #fff;
+  padding: 40px 20px;
+}
+
+.produtos h2 {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.produto-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+.produto {
+  width: 250px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: 0.3s;
+  overflow: hidden;
+}
+
+.produto:hover {
+  transform: translateY(-5px);
+}
+
+.produto img {
+  width: 100%;
+  height: auto;
+}
+
+.produto h3,
+.produto h4,
+.produto p,
+.produto small {
+  padding: 0 10px;
+}
+
+.produto button {
+  background: #ffcc00;
+  border: none;
+  width: 100%;
+  padding: 12px;
+  font-weight: bold;
+  border-radius: 0 0 10px 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.produto button:hover {
+  background: #e6b800;
+  transform: scale(1.03);
+}
+
+/* Página de produto detalhado */
+.produto-detalhado,
+.produto-container {
+  max-width: 900px;
+  margin: 30px auto;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.imagem-produto img {
+  max-width: 350px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.info-produto {
+  flex: 1;
+}
+
+.info-produto h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.info-produto p {
+  font-size: 18px;
+  margin: 8px 0;
+}
+
+.botoes-produto {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.btn-comprar,
+.btn-voltar {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-comprar {
+  background: #28a745;
+  color: #fff;
+}
+
+.btn-comprar:hover {
+  background: #218838;
+}
+
+.btn-voltar {
+  background: #28a745;
+  color: #fff;
+}
+
+.btn-voltar:hover {
+  background: #5a6268;
+}
+
+.descricao-produto {
+  width: 100%;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-top: 20px;
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: justify;
+}
+
+/* Rodapé */
+footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+.miniaturas {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.miniaturas img {
+  width: 70px;
+  height: auto;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 6px;
+  transition: border 0.2s;
+}
+
+.miniaturas img:hover {
+  border: 2px solid #ffcc00;
+}

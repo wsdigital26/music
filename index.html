@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja Virtual - Cia dos Teclados</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"> <!-- ícone da aba -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet"> <!-- Fonte moderna -->
+</head>
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+        <div class="logo">
+            <h1>Cia dos Teclados</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="https://wa.me/5561994088040" target="_blank">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <main>
+
+        <!-- Banner -->
+        <section class="banner">
+            <h2>Bem-vindo à Nossa Loja de Instrumentos Musicais!</h2>
+            <p>O Som Perfeito Começa Aqui!</p>
+        </section>
+
+        <!-- Buscador de produtos -->
+        <section id="buscador">
+            <input type="text" id="busca-produto" placeholder="Buscar produtos..." oninput="buscarProduto()">
+        </section>
+
+        <!-- Categorias -->
+        <section id="categorias">
+            <h3>Categorias</h3>
+            <div id="menu-categorias">
+                <!-- Categorias serão carregadas dinamicamente aqui -->
+            </div>
+        </section>
+
+        <!-- Produtos -->
+        <section id="produtos" class="produtos">
+            <h2>Produtos</h2>
+            <div class="produto-container">
+                <!-- Produtos serão carregados dinamicamente aqui -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; Cia dos Teclados. Todos os direitos reservados.</p>
+    </footer>
+
+    <!-- Carregando o script JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>

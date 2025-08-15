@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Detalhes do Produto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Detalhes do Produto</h1>
+  </header>
+
+  <main id="produto-detalhes">
+    <!-- Os detalhes do produto serão inseridos aqui via JS -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cia dos Teclados</p>
+  </footer>
+
+  <script>
+    const produto = JSON.parse(localStorage.getItem("produtoSelecionado"));
+
+    if (!produto) {
+      document.getElementById("produto-detalhes").innerHTML = "<p>Produto não encontrado.</p>";
+    } else {
+      document.getElementById("produto-detalhes").innerHTML = `
+        <div class="produto-container">
+          <div class="imagem-produto">
+            <img id="imagem-principal" src="${produto['Imagem (URL)']}" alt="${produto.Nome}" onerror="this.src='https://via.placeholder.com/150'">
+            
+            <div class="miniaturas">
+              ${
+                Array.isArray(produto["imagens adicionais"]) && produto["imagens adicionais"].length > 0
+                  ? produto["imagens adicionais"].map(url => `
+                      <img src="${url}" onclick="trocarImagem(this)" alt="Miniatura">
+                    `).join("")
+                  : "<!-- Nenhuma miniatura disponível -->"
+              }
+            </div>
+          </div>
+
+          <div class="info-produto">
+            <h2>${produto.Nome}</h2>
+            <p><strong>Código:</strong> ${produto.Código}</p>
+            <p><strong>Preço:</strong> ${produto.Preço}</p>
+            <button class="btn-comprar" onclick="comprarProduto()">Comprar</button>
+            <button class="btn-voltar" onclick="voltar()">Voltar</button>
+          </div>
+        </div>
+        <div class="descricao-produto">
+          <p><strong>Descrição:</strong> ${produto.Descrição}</p>
+        </div>
+      `;
+    }
+
+    function comprarProduto() {
+      const numeroWhatsApp = "5561994088040"; // coloque seu número com DDI e DDD
+      const mensagem = `Olá, gostaria de saber mais sobre o produto ${produto.Nome}`;
+      const link = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensagem)}`;
+      window.open(link, "_blank"); // abre em nova aba
+    }
+
+    function voltar() {
+      window.history.back();
+    }
+
+    function trocarImagem(imgClicada) {
+      const imagemPrincipal = document.getElementById("imagem-principal");
+      imagemPrincipal.src = imgClicada.src;
+    }
+  </script>
+</body>
+</html>
