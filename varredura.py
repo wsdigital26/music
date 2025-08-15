@@ -28,8 +28,12 @@ REAJUSTES = {
 
 # Configurações do Chrome
 chrome_options = Options()
-chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--window-size=1920,1080")
+chrome_options.add_argument("--user-data-dir=/tmp/chrome-user-data")
 
 driver = webdriver.Chrome(options=chrome_options)
 wait = WebDriverWait(driver, 10)
@@ -202,3 +206,4 @@ if dados_por_categoria:
     salvar_json(dados_por_categoria)
 
 driver.quit()
+
