@@ -1,11 +1,12 @@
 name: Atualizar Produtos
 
-# Rodar 2 vezes por dia + manualmente
 on:
   schedule:
-    # Horários em UTC: 9h e 21h UTC (6h e 18h no horário de Brasília)
-    - cron: '0 9,21 * * *'
-  workflow_dispatch:
+    # Horários em UTC (Brasília -3): 08:12 e 15:18 BRT
+    # UTC = BRT +3
+    - cron: '12 11 * * *'  # 08:12 BRT
+    - cron: '18 18 * * *'  # 15:18 BRT
+  workflow_dispatch:  # permite rodar manualmente
 
 jobs:
   build:
@@ -22,23 +23,38 @@ jobs:
       with:
         python-version: '3.12'
 
-    # 3️⃣ Instalar dependências
+    # 3️⃣ Instalar dependências Python
     - name: Instalar dependências
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    # 4️⃣ Rodar o script Python
+    # 4️⃣ Instalar Google Chrome e ChromeDriver
+    - name: Instalar Google Chrome e ChromeDriver
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4 wget
+        # Instalar Google Chrome
+        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -f install -y
+        # Instalar ChromeDriver compatível
+        CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
+        LATEST_DRIVER=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+        wget -O chromedriver.zip "https://chromedriver.storage.googleapis.com/$LATEST_DRIVER/chromedriver_linux64.zip"
+        unzip chromedriver.zip
+        sudo mv chromedriver /usr/local/bin/
+        sudo chmod +x /usr/local/bin/chromedriver
+
+    # 5️⃣ Rodar o script Python
     - name: Rodar varredura.py
       run: python varredura.py
 
-    # 5️⃣ Commit automático do JSON gerado
-    - name: Commit do JSON atualizado
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add produtos_hayamax.json
-        git commit -m "Atualização automática do JSON" || echo "Nada para commitar"
-        git push origin HEAD:main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # 6️⃣ Commit e push do JSON gerado usando action segura
+    - name: Commit e push do JSON
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+        force: true
+        commit_message: "Atualização automática do JSON"
+        file_pattern: produtos_hayamax.json
