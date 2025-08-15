@@ -16,4 +16,4 @@ jobs:
           python-version: '3.12'
 
       - name: Rodar script
-        run: python script.py
+        run: python varredura.py
