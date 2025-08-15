@@ -1,11 +1,11 @@
 name: Atualizar Produtos
 
-# Configuração para rodar 2 vezes por dia e manualmente
+# Rodar 2 vezes por dia + manualmente
 on:
   schedule:
     # Horários em UTC: 9h e 21h UTC (6h e 18h no horário de Brasília)
     - cron: '0 9,21 * * *'
-  workflow_dispatch:  # permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
@@ -32,13 +32,13 @@ jobs:
     - name: Rodar varredura.py
       run: python varredura.py
 
-    # 5️⃣ Commit automático do JSON atualizado
+    # 5️⃣ Commit automático do JSON gerado
     - name: Commit do JSON atualizado
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add produtos_hayamax.json
-        git commit -m "Atualização automática do JSON"
-        git push
+        git commit -m "Atualização automática do JSON" || echo "Nada para commitar"
+        git push origin HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
