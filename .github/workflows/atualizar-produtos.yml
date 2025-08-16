@@ -29,16 +29,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y unzip xvfb libxi6 wget google-chrome-stable
           
-          # Pegar apenas a versão principal do Chrome (ex: 139)
           CHROME_VERSION=$(google-chrome --version | grep -oP '\d+' | head -1)
           echo "Chrome versão principal: $CHROME_VERSION"
 
-          # Baixar Chromedriver compatível
-          DRIVER_VERSION=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-          wget -O chromedriver.zip "https://chromedriver.storage.googleapis.com/$DRIVER_VERSION/chromedriver_linux64.zip"
-          
+          DRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/${CHROME_VERSION}.0.0/linux64/chromedriver-linux64.zip"
+          wget -O chromedriver.zip "$DRIVER_URL"
           unzip chromedriver.zip
-          sudo mv chromedriver /usr/local/bin/
+          sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
           sudo chmod +x /usr/local/bin/chromedriver
 
       - name: Rodar script Python
