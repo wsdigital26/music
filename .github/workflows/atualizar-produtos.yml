@@ -39,7 +39,7 @@ jobs:
 
       - name: Rodar script Python
         run: |
-          python3 seu_script.py   # ajuste para o nome real do seu script
+          python3 produtos_hayamax.py   # ajuste para o nome real do seu script
 
       - name: Commitar JSON atualizado
         run: |
