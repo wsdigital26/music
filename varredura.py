@@ -195,15 +195,20 @@ fazer_login()
 dados_por_categoria = {}
 
 for nome_categoria, url_categoria in CATEGORIAS.items():
-    print(f"\n🔄 Categoria: {nome_categoria}")
-    ordenar_por_maior_preco(url_categoria)
-    carregar_todos_produtos(url_categoria)
-    produtos = coletar_produtos(nome_categoria)
-    if produtos:
-        dados_por_categoria.update(produtos)
+    try:
+        print(f"\n🔄 Categoria: {nome_categoria}")
+        ordenar_por_maior_preco(url_categoria)
+        carregar_todos_produtos(url_categoria)
+        produtos = coletar_produtos(nome_categoria)
+        if produtos:
+            dados_por_categoria.update(produtos)
+    except Exception as e:
+        print(f"❌ Erro ao processar categoria '{nome_categoria}': {e}")
+        continue  # Continua para a próxima categoria mesmo se der erro
 
 if dados_por_categoria:
     salvar_json(dados_por_categoria)
 
 driver.quit()
+
 
