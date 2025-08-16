@@ -41,15 +41,22 @@ jobs:
         run: |
           python3 varredura.py   # ajuste para o nome real do seu script
 
-      - name: Commitar JSON atualizado
+      - name: Commitar JSON atualizado automaticamente
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Adiciona só o JSON (não o repositório inteiro)
-          git add caminho/para/o/arquivo.json
+          # Procura o arquivo JSON gerado pelo script
+          ARQUIVO_JSON=$(find . -maxdepth 2 -type f -name "*.json" | head -n 1)
 
-          # Faz commit se houve mudanças
+          if [ -z "$ARQUIVO_JSON" ]; then
+            echo "❌ Nenhum JSON encontrado para commitar."
+            exit 0
+          fi
+
+          echo "✅ Encontrado JSON: $ARQUIVO_JSON"
+
+          # Adiciona e faz commit do JSON
+          git add "$ARQUIVO_JSON"
           git commit -m "Atualizando JSON de produtos [skip ci]" || echo "Nenhuma mudança no JSON"
-
           git push
