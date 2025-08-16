@@ -27,14 +27,16 @@ jobs:
       - name: Instalar Google Chrome e ChromeDriver
         run: |
           sudo apt-get update
-          sudo apt-get install -y unzip xvfb libxi6 wget
-          # Instalar Google Chrome
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -f install -y
-          # Instalar ChromeDriver compatível
-          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
-          LATEST_DRIVER=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-          wget -O chromedriver.zip "https://chromedriver.storage.googleapis.com/$LATEST_DRIVER/chromedriver_linux64.zip"
+          sudo apt-get install -y unzip xvfb libxi6 wget google-chrome-stable
+          
+          # Pegar apenas a versão principal do Chrome (ex: 139)
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+' | head -1)
+          echo "Chrome versão principal: $CHROME_VERSION"
+
+          # Baixar Chromedriver compatível
+          DRIVER_VERSION=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+          wget -O chromedriver.zip "https://chromedriver.storage.googleapis.com/$DRIVER_VERSION/chromedriver_linux64.zip"
+          
           unzip chromedriver.zip
           sudo mv chromedriver /usr/local/bin/
           sudo chmod +x /usr/local/bin/chromedriver
