@@ -247,7 +247,7 @@
             "Código": "69555",
             "Preço": "R$ 4.323,14",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/69555/500/1.jpg",
-            "Descrição": "O Violão Yamaha CSF-TA te leva para um mundo criativo, possuindo reverber envolvente e um lindo chorus, assim você nem precisa de amplificador e nem um outro equipamento. Produzindo um som mais alto e forte nas gamas de baixo a médio, graças à tecnologia de análise acústica de ponta desenvolvida pela divisão de I & D da Yamaha.\n\nO compacto CSF TransAcoustic possui tampo sólido em Sitka spruce, laterais e fundo em mogno e um inovador scalloped bracing, gerando um timbre quente e encorpado.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -391,7 +391,7 @@
             "Código": "78093",
             "Preço": "R$ 1.239,37",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/78093/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "O Violão Strinberg SD201HC é um excelente instrumento musical, com um belíssimo design, ótimo acabamento e uma sonoridade perfeita. Feito com a melhor acústica que você já ouviu, possuindo ainda sistema elétrico.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
             "Imagens adicionais": []
         },
         {
@@ -1033,7 +1033,7 @@
             "Código": "82322",
             "Preço": "R$ 3.085,64",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82322/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "A Guitarra Aria Pro II 212-MK2 Bowery é um modelo que combina design elegante e construção leve, proporcionando um equilíbrio perfeito para ensaios ou até mesmo apresentações ao vivo. Equipada com um par de mini-humbuckers, esta guitarra emite uma ressonância semi-oca pura, repleta de harmônicos ricos de médio alcance.  \n\nConstituída por um corpo em mogno sólido, a Aria Pro II 212-MK2 cria tons exuberantes, enquanto o corte sem calcanhar permite acesso suave às posições de trastes mais altas. Já a cauda Bigsby é outro ponto a ser destacado, este detalhe entrega ao músico um vibrato arejado e suave e uma vibração de classe inegável. Com essas características a Guitarra Aria Pro II 212-MK2 Bowery é o modelo ideal para quem preza por alta qualidade e sonoridade impecável.",
             "Imagens adicionais": []
         },
         {
@@ -1485,14 +1485,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Pacifica Yamaha 012 DBM Blue",
-            "Código": "79690",
-            "Preço": "R$ 1.265,51",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79690/500/1.jpg",
-            "Descrição": "A Guitarra Pacifica Yamaha 012 DBM faz parte da série pacifica, sendo este um modelo que pode agradar diversos gêneros e estilos musicais.\n\nPossuindo ótimo timbre, sonoridade incomparável, somado a excelente tocabilidade que este instrumento pode proporcionar a você. Além disso, este modelo proporciona desde um som limpo a um timbre com distorção pesada.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Candy Apple",
             "Código": "86300",
             "Preço": "R$ 1.233,32",
@@ -1537,7 +1529,7 @@
             "Código": "85060",
             "Preço": "R$ 919,24",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/85060/500/1.jpg",
-            "Descrição": "A Guitarra Tagima TG-500 é um instrumento ideal para músicos iniciantes ou profissionais, que buscam um modelo pronto para qualquer estilo musical somado a qualidade e custo-benefício. Constituída com corpo em basswood, braço em maple e captação tagima single coils, resultando em versatilidade sonora.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -1690,6 +1682,14 @@
             "Preço": "R$ 726,54",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79911/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II STG-003 é a pura energia sonora em forma de instrumento! Possuindo corpo em Basswood e um acabamento brilhante que fascina desde o primeiro olhar. Além disso, sua configuração de captadores inclui três single-coils Aria OS-1, que fornecem um som brilhante e equilibrado, típico das guitarras Aria Pro II. O controle de tonalidade possui uma chave seletora de 5 posições, que permite uma grande variedade de sons, desde o timbre mais limpo até o som mais distorcido.\n\nA Aria Pro II STG-003 apresenta hardware de qualidade, design clássico e construção sólida que tornam uma excelente opção para músicos de todos os níveis de habilidade que procuram um instrumento versátil e de alta qualidade.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-003/SPL Vanilla White",
+            "Código": "79918",
+            "Preço": "R$ 726,54",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79918/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-003/SPL é uma obra prima, constituída para desafiar os limites do rock. Com corpo feito em Basswood e braço em Maple Bolt-on, esse modelo vai te deixar sem palavras com seu som encorpado e intenso.\n\nCom os seus 22 trastes, a Aria Pro II STG-003/SPL oferece controle aprimorado para que você possa realizar os seus solos, além disso, a escala em Rosewood combinada com hardware cromado e escala de 648mm (25-1/2\"), permite que você explore riffs com performances e intensidade.",
             "Imagens adicionais": []
         }
     ]
