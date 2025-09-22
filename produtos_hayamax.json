@@ -535,7 +535,7 @@
             "Código": "70692",
             "Preço": "R$ 963,73",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/70692/500/1.jpg",
-            "Descrição": "O Violão Eletroacústico Strinberg SF200C é um excelente modelo para quem busca um instrumento musical com design moderno, excelente qualidade e ótimo custo-benefício.\nConstituído com corpo no estilo flat, tampo em Sapele e encordoamento de aço, o que proporcionará para você ótima tocabilidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -687,7 +687,7 @@
             "Código": "63242",
             "Preço": "R$ 797,12",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/63242/500/1.jpg",
-            "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -719,7 +719,7 @@
             "Código": "63561",
             "Preço": "R$ 725,89",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/63561/500/1.jpg",
-            "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -859,14 +859,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Harmonics GS-11 Acústico Aço Natural",
-            "Código": "60750",
-            "Preço": "R$ 429,95",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/60750/500/1.jpg",
-            "Descrição": "O Violão Harmonics GS-11 é um belíssimo modelo que entregará a você tocabilidade inacreditável. Ideal para quem gosta de tocar os sucessos mais pedidos pelos amigos, o Violão Harmonics Gs11nt Acústico Aço Natural é o companheiro perfeito para os churrascos e as rodas de amigos!\n\nA Harmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Giannini S14 Acústico Aço Acústico Preto",
             "Código": "50570",
             "Preço": "R$ 394,80",
@@ -931,9 +923,17 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Harmonics GS-11 Acústico Aço Natural",
+            "Código": "60750",
+            "Preço": "R$ 359,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/60750/500/1.jpg",
+            "Descrição": "O Violão Harmonics GS-11 é um belíssimo modelo que entregará a você tocabilidade inacreditável. Ideal para quem gosta de tocar os sucessos mais pedidos pelos amigos, o Violão Harmonics Gs11nt Acústico Aço Natural é o companheiro perfeito para os churrascos e as rodas de amigos!\n\nA Harmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Harmonics GC-20 Acústico Nylon Natural",
             "Código": "60749",
-            "Preço": "R$ 344,78",
+            "Preço": "R$ 299,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/60749/500/1.jpg",
             "Descrição": "O Violão Harmonics GC-20 é um instrumento musical que possui uma combinação de materiais focada em um timbre de qualidade, possuindo um custo x benefício excepcional.\n\nA Harmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
             "Imagens adicionais": []
@@ -947,14 +947,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Harmonics GC-10 Acústico Nylon Preto",
-            "Código": "60748",
-            "Preço": "R$ 298,04",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/60748/500/1.jpg",
-            "Descrição": "O Violão Harmonics GC-10 é o modelo perfeito para músicos iniciantes, que não abrem mão do som tradicional de um violão de qualidade. Apresenta um acabamento sofisticado considerado acima da média quando comparado a violões similares. O modelo Gc10 acústico clássico nylon é uma ótima opção de custo/benefício.\n\nA Harmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Harmonics GK-10 Infantil 1/4 Nylon Natural",
             "Código": "66403",
             "Preço": "R$ 295,69",
@@ -963,9 +955,17 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Harmonics GC-10 Acústico Nylon Preto",
+            "Código": "60748",
+            "Preço": "R$ 263,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/60748/500/1.jpg",
+            "Descrição": "O Violão Harmonics GC-10 é o modelo perfeito para músicos iniciantes, que não abrem mão do som tradicional de um violão de qualidade. Apresenta um acabamento sofisticado considerado acima da média quando comparado a violões similares. O modelo Gc10 acústico clássico nylon é uma ótima opção de custo/benefício.\n\nA Harmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Harmonics GNA-111 Acústico Nylon Natural",
             "Código": "60737",
-            "Preço": "R$ 260,74",
+            "Preço": "R$ 227,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/60737/500/1.jpg",
             "Descrição": "O Violão Harmonics GNA-111 é um modelo que combina a excelência sonora característica dos violões Harmonics com materiais de alta qualidade e um acabamento especial. Embora possa parecer um instrumento simples à primeira vista, foi projetado para oferecer experiências musicais extraordinárias.\n\nO GNA-111 é o violão perfeito para aqueles que valorizam uma sonoridade acústica excepcional. Com um corpo clássico, escala, tampo, faixa e fundo em madeira de liden, além do braço em nato, esse modelo é especialmente recomendado para iniciantes no mundo da música.\n\nHarmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
             "Imagens adicionais": []
@@ -973,11 +973,11 @@
     ],
     "Guitarras": [
         {
-            "Nome": "Guitarra Yamaha Revstar RSS 20 Vintage White",
-            "Código": "80595",
+            "Nome": "Guitarra Yamaha Revstar RSS 02T Black Com Bag",
+            "Código": "80600",
             "Preço": "R$ 6.051,62",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80595/500/1.jpg",
-            "Descrição": "A Guitarra Yamaha Revstar RSS 20 é uma opção de alta qualidade e versatilidade para músicos exigentes. Constituída com corpo possuindo cavidades internas vazias para uma ressonância aprimorada e menor peso, sem comprometer a qualidade do som.\n\nO braço reforçado com carbono garante estabilidade e durabilidade, além de oferecer uma sensação suave e confortável ao toque. Já os dois captadores humbucker produzem um som equilibrado e potente em todas as frequências, enquanto a chave de 5 posições permite ao guitarrista escolher diferentes combinações de captadores, proporcionando uma ampla variedade de sons.\n\nA Revstar RSS 20 também possui o Focus Switch, que pode ser acionado com a chave de 3 posições, permitindo uma transição suave entre um timbre quente e encorpado ideal para solos e riffs, ou um som mais nítido e cristalino, ideal para partes rítmicas.\n\nCom sua construção sólida e recursos de alta qualidade, a Yamaha Revstar RSS20 é uma escolha confiável e de alto desempenho para guitarristas em busca de um instrumento versátil.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80600/500/1.jpg",
+            "Descrição": "A Guitarra Yamaha Revstar RSS 02T é um instrumento de alta qualidade projetado para atender às necessidades de guitarristas exigentes. Ela vem equipada com captadores estilo P90 de bobina única, que fornecem um som vintage e quente, com um toque moderno.\n\nAcompanhada de chave de 5 posições, que permite ao músico selecionar facilmente as diferentes combinações de captadores, proporcionando uma ampla gama de possibilidades sonoras. Além disso, o Focus Switch permite uma alteração no timbre, adicionando mais definição e clareza ao som.\n\nCom sua construção sólida e recursos de alta qualidade, a Yamaha Revstar RSS02T é uma ótima escolha para qualquer guitarrista que busca um instrumento versátil e confiável.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
             "Imagens adicionais": []
         },
         {
@@ -989,11 +989,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Yamaha Revstar RSS 02T Black Com Bag",
-            "Código": "80600",
+            "Nome": "Guitarra Yamaha Revstar RSS 20 Vintage White",
+            "Código": "80595",
             "Preço": "R$ 6.051,62",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80600/500/1.jpg",
-            "Descrição": "A Guitarra Yamaha Revstar RSS 02T é um instrumento de alta qualidade projetado para atender às necessidades de guitarristas exigentes. Ela vem equipada com captadores estilo P90 de bobina única, que fornecem um som vintage e quente, com um toque moderno.\n\nAcompanhada de chave de 5 posições, que permite ao músico selecionar facilmente as diferentes combinações de captadores, proporcionando uma ampla gama de possibilidades sonoras. Além disso, o Focus Switch permite uma alteração no timbre, adicionando mais definição e clareza ao som.\n\nCom sua construção sólida e recursos de alta qualidade, a Yamaha Revstar RSS02T é uma ótima escolha para qualquer guitarrista que busca um instrumento versátil e confiável.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80595/500/1.jpg",
+            "Descrição": "A Guitarra Yamaha Revstar RSS 20 é uma opção de alta qualidade e versatilidade para músicos exigentes. Constituída com corpo possuindo cavidades internas vazias para uma ressonância aprimorada e menor peso, sem comprometer a qualidade do som.\n\nO braço reforçado com carbono garante estabilidade e durabilidade, além de oferecer uma sensação suave e confortável ao toque. Já os dois captadores humbucker produzem um som equilibrado e potente em todas as frequências, enquanto a chave de 5 posições permite ao guitarrista escolher diferentes combinações de captadores, proporcionando uma ampla variedade de sons.\n\nA Revstar RSS 20 também possui o Focus Switch, que pode ser acionado com a chave de 3 posições, permitindo uma transição suave entre um timbre quente e encorpado ideal para solos e riffs, ou um som mais nítido e cristalino, ideal para partes rítmicas.\n\nCom sua construção sólida e recursos de alta qualidade, a Yamaha Revstar RSS20 é uma escolha confiável e de alto desempenho para guitarristas em busca de um instrumento versátil.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
             "Imagens adicionais": []
         },
         {
@@ -1085,18 +1085,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II MAC-DLX Stained Brown",
-            "Código": "82296",
-            "Preço": "R$ 2.194,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82296/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II MAC-DLX é a verdadeira fusão de artesanato excepcional e inovação sonora. Possuindo topo esculpido que oferece uma estética sofisticada, enquanto o braço em Maple (Thermo Treated) 3P, Bolt-on, proporciona durabilidade incomparável. Já a escala em Rosewood adiciona uma camada extra de calor e profundidade ao som, elevando sua performance a novos patamares.\n\nO tratamento térmico aplicado ao corpo e pescoço não só reduz o peso da guitarra, tornando-a mais leve e fácil de manusear, mas também intensifica sua ressonância, proporcionando um som rico e autêntico. Além disso, a textura única do acabamento de poros abertos adiciona personalidade visual, e contribui para um som vintage. Seja você um músico profissional ou um entusiasta apaixonado, a Guitarra Aria Pro II MAC-DLX irá inspirar e elevar sua expressão musical a novos horizontes.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II MAC-DLX Stained Black",
             "Código": "82297",
             "Preço": "R$ 2.194,21",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82297/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II MAC-DLX é a verdadeira fusão de artesanato excepcional e inovação sonora. Possuindo topo esculpido que oferece uma estética sofisticada, enquanto o braço em Maple (Thermo Treated) 3P, Bolt-on, proporciona durabilidade incomparável. Já a escala em Rosewood adiciona uma camada extra de calor e profundidade ao som, elevando sua performance a novos patamares.\n\nO tratamento térmico aplicado ao corpo e pescoço não só reduz o peso da guitarra, tornando-a mais leve e fácil de manusear, mas também intensifica sua ressonância, proporcionando um som rico e autêntico. Além disso, a textura única do acabamento de poros abertos adiciona personalidade visual, e contribui para um som vintage. Seja você um músico profissional ou um entusiasta apaixonado, a Guitarra Aria Pro II MAC-DLX irá inspirar e elevar sua expressão musical a novos horizontes.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II MAC-DLX Stained Brown",
+            "Código": "82296",
+            "Preço": "R$ 2.194,21",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82296/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II MAC-DLX é a verdadeira fusão de artesanato excepcional e inovação sonora. Possuindo topo esculpido que oferece uma estética sofisticada, enquanto o braço em Maple (Thermo Treated) 3P, Bolt-on, proporciona durabilidade incomparável. Já a escala em Rosewood adiciona uma camada extra de calor e profundidade ao som, elevando sua performance a novos patamares.\n\nO tratamento térmico aplicado ao corpo e pescoço não só reduz o peso da guitarra, tornando-a mais leve e fácil de manusear, mas também intensifica sua ressonância, proporcionando um som rico e autêntico. Além disso, a textura única do acabamento de poros abertos adiciona personalidade visual, e contribui para um som vintage. Seja você um músico profissional ou um entusiasta apaixonado, a Guitarra Aria Pro II MAC-DLX irá inspirar e elevar sua expressão musical a novos horizontes.",
             "Imagens adicionais": []
         },
@@ -1197,6 +1197,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Aria Pro II PE-350CST Aged Black",
+            "Código": "79964",
+            "Preço": "R$ 1.919,93",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79964/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II PE-350CST é a escolha perfeita para guitarristas que desejam um instrumento poderoso e rico em som, tanto para performances ao vivo quanto para gravações em estúdio.\n\nCom corpo em Basswood e captadores Aria Classic, essa guitarra oferece um som potente e versátil, com controles de volume e tonalidade separados para cada captador, permitindo uma ampla variedade de ajustes e tons. Além disso, a Guitarra Aria Pro II PE-350CST é a opção ideal para artistas de rock, blues e heavy metal que buscam um instrumento confiável, durável e com uma performance acima da média.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Aria Pro II PE-350PG Aged Lemon Drop",
             "Código": "79966",
             "Preço": "R$ 1.919,93",
@@ -1213,11 +1221,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-350CST Aged Black",
-            "Código": "79964",
-            "Preço": "R$ 1.919,93",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79964/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II PE-350CST é a escolha perfeita para guitarristas que desejam um instrumento poderoso e rico em som, tanto para performances ao vivo quanto para gravações em estúdio.\n\nCom corpo em Basswood e captadores Aria Classic, essa guitarra oferece um som potente e versátil, com controles de volume e tonalidade separados para cada captador, permitindo uma ampla variedade de ajustes e tons. Além disso, a Guitarra Aria Pro II PE-350CST é a opção ideal para artistas de rock, blues e heavy metal que buscam um instrumento confiável, durável e com uma performance acima da média.",
+            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Black Diamond",
+            "Código": "79956",
+            "Preço": "R$ 1.851,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79956/500/1.jpg",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1229,10 +1237,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Black Diamond",
-            "Código": "79956",
+            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Marble White",
+            "Código": "79959",
             "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79956/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79959/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1269,14 +1277,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Marble White",
-            "Código": "79959",
-            "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79959/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II STG-57 2 Tone Sunburst",
             "Código": "79924",
             "Preço": "R$ 1.782,79",
@@ -1305,6 +1305,14 @@
             "Código": "79936",
             "Preço": "R$ 1.782,79",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79936/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II TEG-TL além de linda é potente. Constituída com corpo em Okoume e braço em Maple, Bolt-on, esse modelo é ideal para guitarristas que buscam um instrumento que entregue o que tem de melhor em performance e durabilidade.\n\nEquipada com captadores CS-1 e OS-1 Single Coil, essa máquina oferece sonoridade quente. O controle de três posições permite que você mude facilmente entre os timbres, enquanto o controle de volume e tonalidade permitem maior flexibilidade na hora do ajuste. A Aria Pro II TEG-TL é perfeita para quem quer som potente, construção de alto padrão e não abre mão do melhor estilo clássico.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II TEG-TL Natural",
+            "Código": "79935",
+            "Preço": "R$ 1.782,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79935/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II TEG-TL além de linda é potente. Constituída com corpo em Okoume e braço em Maple, Bolt-on, esse modelo é ideal para guitarristas que buscam um instrumento que entregue o que tem de melhor em performance e durabilidade.\n\nEquipada com captadores CS-1 e OS-1 Single Coil, essa máquina oferece sonoridade quente. O controle de três posições permite que você mude facilmente entre os timbres, enquanto o controle de volume e tonalidade permitem maior flexibilidade na hora do ajuste. A Aria Pro II TEG-TL é perfeita para quem quer som potente, construção de alto padrão e não abre mão do melhor estilo clássico.",
             "Imagens adicionais": []
         },
@@ -1346,14 +1354,6 @@
             "Preço": "R$ 1.782,79",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79925/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II STG-57 é uma verdadeira lenda do rock! Com corpo em Amieiro e braço em Maple, esse modelo oferece excelente tocabilidade e sonoridade, ideal para guitarristas que buscam entregas sonoras encorpadas, bem distribuídas e potentes.\n\nA Aria Pro II STG-57 possui três captadores de bobina única Alnico V de alta potência que garantem som potente e cristalino. Com comprimento de escala de 648mm (25-1/2\"), é capaz de garantir riffs e solos com precisão e uma pegada única. Vale a pena experimentar.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II TEG-TL Natural",
-            "Código": "79935",
-            "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79935/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II TEG-TL além de linda é potente. Constituída com corpo em Okoume e braço em Maple, Bolt-on, esse modelo é ideal para guitarristas que buscam um instrumento que entregue o que tem de melhor em performance e durabilidade.\n\nEquipada com captadores CS-1 e OS-1 Single Coil, essa máquina oferece sonoridade quente. O controle de três posições permite que você mude facilmente entre os timbres, enquanto o controle de volume e tonalidade permitem maior flexibilidade na hora do ajuste. A Aria Pro II TEG-TL é perfeita para quem quer som potente, construção de alto padrão e não abre mão do melhor estilo clássico.",
             "Imagens adicionais": []
         },
         {
@@ -1421,11 +1421,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-2 Candy Apple Red",
-            "Código": "79948",
+            "Nome": "Guitarra Aria Pro II J-1 See-Through Vintage White",
+            "Código": "79947",
             "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79948/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II J-2 é um modelo deslumbrante que combina desempenho excepcional com um design atraente e moderno. Seu visual diferenciado é complementado por uma potência sonora que é perfeita para performances em palcos, gravações e home studios.\n\nCom corpo em Poplar e braço em Maple Bolt-on, garantem a união perfeita entre resistência e conforto, permitindo que você toque por horas. Possui escala em Rosewood, 24 trastes e um comprimento de 628mm (24-3/4\"), oferecendo a o melhor em precisão e versatilidade.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79947/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II J-1 é um modelo que se destaca pela alta performance e design diferenciado. Constituída com corpo em Poplar, braço em Maple Bolt-on e escala em Rosewood, é responsável por garantir acordes equilibrados e alto nível de personalização do som.\n\nCom 24 trastes, a Aria Pro II J-1 possibilita maior flexibilidade para explorar as mais variadas sonoridades. A escala com comprimento de 628 (24-3/4\") com captação OS-5 (Alnico-5) & CPH-1 (Classic Power Alnico-5) permitem maior conforto e precisão durante o uso. Assim, a Aria Pro II J-1 é uma escolha excepcional para qualquer músico que busque um modelo de alta performance agregado a um design diferenciado, capaz de oferecer uma experiência única e inesquecível em qualquer momento.",
             "Imagens adicionais": []
         },
         {
@@ -1437,11 +1437,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
-            "Código": "79946",
+            "Nome": "Guitarra Aria Pro II J-2 Candy Apple Red",
+            "Código": "79948",
             "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II J-1 é um modelo que se destaca pela alta performance e design diferenciado. Constituída com corpo em Poplar, braço em Maple Bolt-on e escala em Rosewood, é responsável por garantir acordes equilibrados e alto nível de personalização do som.\n\nCom 24 trastes, a Aria Pro II J-1 possibilita maior flexibilidade para explorar as mais variadas sonoridades. A escala com comprimento de 628 (24-3/4\") com captação OS-5 (Alnico-5) & CPH-1 (Classic Power Alnico-5) permitem maior conforto e precisão durante o uso. Assim, a Aria Pro II J-1 é uma escolha excepcional para qualquer músico que busque um modelo de alta performance agregado a um design diferenciado, capaz de oferecer uma experiência única e inesquecível em qualquer momento.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79948/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II J-2 é um modelo deslumbrante que combina desempenho excepcional com um design atraente e moderno. Seu visual diferenciado é complementado por uma potência sonora que é perfeita para performances em palcos, gravações e home studios.\n\nCom corpo em Poplar e braço em Maple Bolt-on, garantem a união perfeita entre resistência e conforto, permitindo que você toque por horas. Possui escala em Rosewood, 24 trastes e um comprimento de 628mm (24-3/4\"), oferecendo a o melhor em precisão e versatilidade.",
             "Imagens adicionais": []
         },
         {
@@ -1453,10 +1453,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-1 See-Through Vintage White",
-            "Código": "79947",
+            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
+            "Código": "79946",
             "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79947/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II J-1 é um modelo que se destaca pela alta performance e design diferenciado. Constituída com corpo em Poplar, braço em Maple Bolt-on e escala em Rosewood, é responsável por garantir acordes equilibrados e alto nível de personalização do som.\n\nCom 24 trastes, a Aria Pro II J-1 possibilita maior flexibilidade para explorar as mais variadas sonoridades. A escala com comprimento de 628 (24-3/4\") com captação OS-5 (Alnico-5) & CPH-1 (Classic Power Alnico-5) permitem maior conforto e precisão durante o uso. Assim, a Aria Pro II J-1 é uma escolha excepcional para qualquer músico que busque um modelo de alta performance agregado a um design diferenciado, capaz de oferecer uma experiência única e inesquecível em qualquer momento.",
             "Imagens adicionais": []
         },
@@ -1485,6 +1485,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Aria Pro II J-TL Black",
+            "Código": "79951",
+            "Preço": "R$ 1.302,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79951/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II J-TL é uma máquina de som que entrega um timbre incrível para os fãs de guitarra! Com dois captadores CS-1 Single Coil e um OS-1 Single Coil, a sonoridade é pura e cristalina, ideal para os amantes do rock, blues e country. O controle de volume e tone, juntamente com o seletor de posição de captador de três vias, permite que você ajuste o som para se adequar ao seu estilo de tocar, facilitando na hora de expressar os seus riffs poderosos.\n\nCom corpo em Basswood e braço em Maple Bolt-on, a Aria Pro II J-TL oferece conforto, precisão e garante a tocabilidade. A Guitarra Aria Pro II J-TL é a escolha perfeita para quem buscam som clássico e moderno.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Aria Pro II J-TL See-Through Vintage White",
             "Código": "79952",
             "Preço": "R$ 1.302,79",
@@ -1498,46 +1506,6 @@
             "Preço": "R$ 1.302,79",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/81368/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II J-TL é uma máquina de som que entrega um timbre incrível para os fãs de guitarra! Com dois captadores CS-1 Single Coil e um OS-1 Single Coil, a sonoridade é pura e cristalina, ideal para os amantes do rock, blues e country. O controle de volume e tone, juntamente com o seletor de posição de captador de três vias, permite que você ajuste o som para se adequar ao seu estilo de tocar, facilitando na hora de expressar os seus riffs poderosos.\n\nCom corpo em Basswood e braço em Maple Bolt-on, a Aria Pro II J-TL oferece conforto, precisão e garante a tocabilidade. A Guitarra Aria Pro II J-TL é a escolha perfeita para quem buscam som clássico e moderno.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II J-TL Black",
-            "Código": "79951",
-            "Preço": "R$ 1.302,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79951/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II J-TL é uma máquina de som que entrega um timbre incrível para os fãs de guitarra! Com dois captadores CS-1 Single Coil e um OS-1 Single Coil, a sonoridade é pura e cristalina, ideal para os amantes do rock, blues e country. O controle de volume e tone, juntamente com o seletor de posição de captador de três vias, permite que você ajuste o som para se adequar ao seu estilo de tocar, facilitando na hora de expressar os seus riffs poderosos.\n\nCom corpo em Basswood e braço em Maple Bolt-on, a Aria Pro II J-TL oferece conforto, precisão e garante a tocabilidade. A Guitarra Aria Pro II J-TL é a escolha perfeita para quem buscam som clássico e moderno.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Yamaha Pacífica 012 Branca",
-            "Código": "73476",
-            "Preço": "R$ 1.238,87",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/73476/500/1.jpg",
-            "Descrição": "A Guitarra Yamaha Pacífica 012 é considerada uma das melhores guitarras há mais de uma década. As guitarras Pacífica da Yamaha são bem conhecidas pelo ótimo timbre e excelente tocabilidade. Essa série possui um corpo confortável e vibratos estilo vintage. A linha Pacífica combina com a renomada qualidade da montagem e da tocabilidade da Yamaha com um som sensacional.\n\nDe um som limpo a distorções pesadas, essa guitarra é a escolha perfeita! Construída com um corpo em Mahogany e braço em Maple, equilibrando perfeitamente a leveza e intensidade sonora do instrumento, e garantindo conforto e tocabilidade ao instrumento. Além de tudo isso, possui um captador Humbucker e dois captadores Single Coil, para proporcionar versatilidade e um estilo vintage a sonoridade!\n\nA chave de cinco posições permite a seleção de sons intermediários, clássicos desta configuração de pick-ups. A Pacífica 012 YAMAHA com seu tradicional Tremolo de desenho vintage com seis capo d´astros individuais reguláveis, proporciona uma precisa entonação.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Yamaha Pacífica 012 Preta",
-            "Código": "73474",
-            "Preço": "R$ 1.238,87",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/73474/500/1.jpg",
-            "Descrição": "A Guitarra Yamaha Pacífica 012 é considerada uma das melhores guitarras há mais de uma década. As guitarras Pacífica da Yamaha são bem conhecidas pelo ótimo timbre e excelente tocabilidade. Essa série possui um corpo confortável e vibratos estilo vintage. A linha Pacífica combina com a renomada qualidade da montagem e da tocabilidade da Yamaha com um som sensacional.\n\nDe um som limpo a distorções pesadas, essa guitarra é a escolha perfeita! Construída com um corpo em Mahogany e braço em Maple, equilibrando perfeitamente a leveza e intensidade sonora do instrumento, e garantindo conforto e tocabilidade ao instrumento. Além de tudo isso, possui um captador Humbucker e dois captadores Single Coil, para proporcionar versatilidade e um estilo vintage a sonoridade!\n\nA chave de cinco posições permite a seleção de sons intermediários, clássicos desta configuração de pick-ups. A Pacífica 012 YAMAHA com seu tradicional Tremolo de desenho vintage com seis capo d´astros individuais reguláveis, proporciona uma precisa entonação.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Candy Apple",
-            "Código": "86300",
-            "Preço": "R$ 1.233,32",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86300/500/1.jpg",
-            "Descrição": "Conheça a  Duosmart-H é a nova integrante da série Smart.  Na versão H, conta dois humburckers e dois efeitos clássicos (overdrive e delay), fazendo dela um instrumento para músicos iniciantes ou profissionais tocarem em qualquer lugar, seja palcos ou mesmo em casa, A Duosmart-H conta com uma saída para fones de ouvido e uma entrada auxiliar para que você toque junto com uma backing track daquele seu artista favorito. Bem vindo ao novo conceito de instrumentos Tagima. Não é só mais uma guitarra: a Duosmart-H integrante da linha Smart Series - tem  personalidade e inovação, caminhando lado a lado com um designer clássico unindo a tecnologia da Sixmart. Um instrumento único, com efeitos necessários para qualquer situação: seja da estrada, no palco ou nos estudos de casa. Equipada com dois captadores humbuckers, essa guitarra é certeza de personalidade e versatilidade.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Black",
-            "Código": "86301",
-            "Preço": "R$ 1.233,32",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86301/500/1.jpg",
-            "Descrição": "Conheça a  Duosmart-H é a nova integrante da série Smart.  Na versão H, conta dois humburckers e dois efeitos clássicos (overdrive e delay), fazendo dela um instrumento para músicos iniciantes ou profissionais tocarem em qualquer lugar, seja palcos ou mesmo em casa, A Duosmart-H conta com uma saída para fones de ouvido e uma entrada auxiliar para que você toque junto com uma backing track daquele seu artista favorito. Bem vindo ao novo conceito de instrumentos Tagima. Não é só mais uma guitarra: a Duosmart-H integrante da linha Smart Series - tem  personalidade e inovação, caminhando lado a lado com um designer clássico unindo a tecnologia da Sixmart. Um instrumento único, com efeitos necessários para qualquer situação: seja da estrada, no palco ou nos estudos de casa. Equipada com dois captadores humbuckers, essa guitarra é certeza de personalidade e versatilidade.",
             "Imagens adicionais": []
         },
         {
@@ -1557,6 +1525,22 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Candy Apple",
+            "Código": "86300",
+            "Preço": "R$ 1.233,32",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86300/500/1.jpg",
+            "Descrição": "Conheça a  Duosmart-H é a nova integrante da série Smart.  Na versão H, conta dois humburckers e dois efeitos clássicos (overdrive e delay), fazendo dela um instrumento para músicos iniciantes ou profissionais tocarem em qualquer lugar, seja palcos ou mesmo em casa, A Duosmart-H conta com uma saída para fones de ouvido e uma entrada auxiliar para que você toque junto com uma backing track daquele seu artista favorito. Bem vindo ao novo conceito de instrumentos Tagima. Não é só mais uma guitarra: a Duosmart-H integrante da linha Smart Series - tem  personalidade e inovação, caminhando lado a lado com um designer clássico unindo a tecnologia da Sixmart. Um instrumento único, com efeitos necessários para qualquer situação: seja da estrada, no palco ou nos estudos de casa. Equipada com dois captadores humbuckers, essa guitarra é certeza de personalidade e versatilidade.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Black",
+            "Código": "86301",
+            "Preço": "R$ 1.233,32",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86301/500/1.jpg",
+            "Descrição": "Conheça a  Duosmart-H é a nova integrante da série Smart.  Na versão H, conta dois humburckers e dois efeitos clássicos (overdrive e delay), fazendo dela um instrumento para músicos iniciantes ou profissionais tocarem em qualquer lugar, seja palcos ou mesmo em casa, A Duosmart-H conta com uma saída para fones de ouvido e uma entrada auxiliar para que você toque junto com uma backing track daquele seu artista favorito. Bem vindo ao novo conceito de instrumentos Tagima. Não é só mais uma guitarra: a Duosmart-H integrante da linha Smart Series - tem  personalidade e inovação, caminhando lado a lado com um designer clássico unindo a tecnologia da Sixmart. Um instrumento único, com efeitos necessários para qualquer situação: seja da estrada, no palco ou nos estudos de casa. Equipada com dois captadores humbuckers, essa guitarra é certeza de personalidade e versatilidade.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Tagima TG-520 Black",
             "Código": "73324",
             "Preço": "R$ 1.021,33",
@@ -1573,10 +1557,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-002 Candy Apple Red",
-            "Código": "79932",
+            "Nome": "Guitarra Aria Pro II TEG-002 Ivory",
+            "Código": "79933",
             "Preço": "R$ 822,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79932/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79933/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II TEG-002 é um modelo rico em detalhes, desenvolvido para quem realmente gosta de rock! Seu corpo em Basswood, braço em Maple Bolt-on e escala e Rosewood, garantem uma entrega sonora equilibrada e potente.\n\nEquipado com um par de captadores single coil Aria OS-1, ela permite controle simplificado de três posições entre os timbres, além do o controle de volume e tonalidade. A Guitarra Aria Pro II Série TEG-002 conta com acabamento em alto brilho e detalhes em sua composição que deixa qualquer músico impressionado.",
             "Imagens adicionais": []
         },
@@ -1589,10 +1573,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-002 Ivory",
-            "Código": "79933",
+            "Nome": "Guitarra Aria Pro II TEG-002 Candy Apple Red",
+            "Código": "79932",
             "Preço": "R$ 822,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79933/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79932/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II TEG-002 é um modelo rico em detalhes, desenvolvido para quem realmente gosta de rock! Seu corpo em Basswood, braço em Maple Bolt-on e escala e Rosewood, garantem uma entrega sonora equilibrada e potente.\n\nEquipado com um par de captadores single coil Aria OS-1, ela permite controle simplificado de três posições entre os timbres, além do o controle de volume e tonalidade. A Guitarra Aria Pro II Série TEG-002 conta com acabamento em alto brilho e detalhes em sua composição que deixa qualquer músico impressionado.",
             "Imagens adicionais": []
         },
@@ -1629,18 +1613,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 714-STD Fullerton Black",
-            "Código": "79954",
-            "Preço": "R$ 788,51",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79954/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II 714-STD Fullerton é uma excelente opção para guitarristas que buscam um som poderoso e um estilo clássico de rock. Com 22 trastes e comprimento de escala de 648mm (25-1/2\"), essa guitarra garante alta performance, conforto e versatilidade.\n\nO corpo em Basswood proporciona um timbre equilibrado e com boa resposta de graves, enquanto o braço em Maple bolt-on oferece estabilidade e durabilidade. Com um design elegante e clássico, a Aria Pro II 714-STD é uma excelente escolha certa para quem busca versatilidade.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II 714-STD Fullerton 3 Tone Sunburst",
             "Código": "79953",
             "Preço": "R$ 788,51",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79953/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II 714-STD Fullerton é uma excelente opção para guitarristas que buscam um som poderoso e um estilo clássico de rock. Com 22 trastes e comprimento de escala de 648mm (25-1/2\"), essa guitarra garante alta performance, conforto e versatilidade.\n\nO corpo em Basswood proporciona um timbre equilibrado e com boa resposta de graves, enquanto o braço em Maple bolt-on oferece estabilidade e durabilidade. Com um design elegante e clássico, a Aria Pro II 714-STD é uma excelente escolha certa para quem busca versatilidade.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II 714-STD Fullerton Black",
+            "Código": "79954",
+            "Preço": "R$ 788,51",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79954/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II 714-STD Fullerton é uma excelente opção para guitarristas que buscam um som poderoso e um estilo clássico de rock. Com 22 trastes e comprimento de escala de 648mm (25-1/2\"), essa guitarra garante alta performance, conforto e versatilidade.\n\nO corpo em Basswood proporciona um timbre equilibrado e com boa resposta de graves, enquanto o braço em Maple bolt-on oferece estabilidade e durabilidade. Com um design elegante e clássico, a Aria Pro II 714-STD é uma excelente escolha certa para quem busca versatilidade.",
             "Imagens adicionais": []
         },
@@ -1661,19 +1645,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II STG-003/SPL Vanilla White",
-            "Código": "79918",
-            "Preço": "R$ 726,54",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79918/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II STG-003/SPL é uma obra prima, constituída para desafiar os limites do rock. Com corpo feito em Basswood e braço em Maple Bolt-on, esse modelo vai te deixar sem palavras com seu som encorpado e intenso.\n\nCom os seus 22 trastes, a Aria Pro II STG-003/SPL oferece controle aprimorado para que você possa realizar os seus solos, além disso, a escala em Rosewood combinada com hardware cromado e escala de 648mm (25-1/2\"), permite que você explore riffs com performances e intensidade.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II STG-003/M 3 Tone Sunburst",
             "Código": "79919",
             "Preço": "R$ 726,54",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79919/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II STG-003/M é uma verdadeira máquina do rock! Com design revolucionário e tecnologia japonesa, a série STG oferece confiança, qualidade e precisão sonora. O corpo em Basswood e braço em Maple Bolt-on, garantem a combinação ideal para riffs e solos impressionantes.\n\nEquipada com três captadores single-coil e conjunto de controles de volume, tone, seletor e chave, a Aria Pro II STG-003/M dispõe de uma variedade de opções sonoras. Além disso, seu sistema tremolo VF-1, permite controle total para criar efeitos de distorção, personalizar a tensão de altura das cordas e muito mais.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-003/SPL Vanilla White",
+            "Código": "79918",
+            "Preço": "R$ 726,54",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79918/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-003/SPL é uma obra prima, constituída para desafiar os limites do rock. Com corpo feito em Basswood e braço em Maple Bolt-on, esse modelo vai te deixar sem palavras com seu som encorpado e intenso.\n\nCom os seus 22 trastes, a Aria Pro II STG-003/SPL oferece controle aprimorado para que você possa realizar os seus solos, além disso, a escala em Rosewood combinada com hardware cromado e escala de 648mm (25-1/2\"), permite que você explore riffs com performances e intensidade.",
             "Imagens adicionais": []
         },
         {
@@ -1698,6 +1682,22 @@
             "Preço": "R$ 726,54",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79915/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II Série STG-003/M LH (canhoto) é uma verdadeira máquina do rock! Com design revolucionário e tecnologia japonesa, a série STG oferece confiança, qualidade e precisão sonora. Com corpo em Basswood e braço em Maple Bolt-on, garantem a combinação ideal para riffs e solos impressionantes.\n\nEquipada com três captadores single-coil e conjunto de controles de volume, tone, seletor e chave, a Aria Pro II STG-003/M dispõe de uma variedade de opções sonoras. Seu o sistema tremolo VF-1, permite controle total para criar efeitos de distorção, personalizar a tensão de altura das cordas e muito mais.\n\nA STG-003/M LH foi desenvolvida especialmente para canhotos.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-003/M LH 3 Tone Sunburst (canhoto)",
+            "Código": "79914",
+            "Preço": "R$ 726,54",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79914/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-003/M LH (canhoto) é uma verdadeira máquina do rock! Com design revolucionário e tecnologia japonesa, a série STG oferece confiança, qualidade e precisão sonora. Com corpo em Basswood e braço em Maple Bolt-on, garantem a combinação ideal para riffs e solos impressionantes.\n\nEquipada com três captadores single-coil e conjunto de controles de volume, tone, seletor e chave, a Aria Pro II STG-003/M dispõe de uma variedade de opções sonoras. Seu o sistema tremolo VF-1, permite controle total para criar efeitos de distorção, personalizar a tensão de altura das cordas e muito mais.\n\nA STG-003/M LH foi desenvolvida especialmente para canhotos.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-003 Candy Apple Red",
+            "Código": "79912",
+            "Preço": "R$ 726,54",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79912/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-003 é a pura energia sonora em forma de instrumento! Possuindo corpo em Basswood e um acabamento brilhante que fascina desde o primeiro olhar. Além disso, sua configuração de captadores inclui três single-coils Aria OS-1, que fornecem um som brilhante e equilibrado, típico das guitarras Aria Pro II. O controle de tonalidade possui uma chave seletora de 5 posições, que permite uma grande variedade de sons, desde o timbre mais limpo até o som mais distorcido.\n\nA Aria Pro II STG-003 apresenta hardware de qualidade, design clássico e construção sólida que tornam uma excelente opção para músicos de todos os níveis de habilidade que procuram um instrumento versátil e de alta qualidade.",
             "Imagens adicionais": []
         }
     ]
