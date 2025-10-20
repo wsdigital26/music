@@ -671,7 +671,7 @@
             "Código": "63736",
             "Preço": "R$ 714,28",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/63736/500/1.jpg",
-            "Descrição": "O Violão Giannini GSF3 CEQ trazem em seu design uma performance que só a Giannini pode te oferecer, sendo o instrumento ideal para aqueles que buscam um instrumento completo.\n\nPossuindo um modelo Grand Auditorium Cutaway, faz com que este modelo se torne confortável e com facilidade no que diz respeito a tocabilidade.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -803,14 +803,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Tagima Paraty Clássico Nylon Natural Satin",
-            "Código": "73364",
-            "Preço": "R$ 534,56",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/73364/500/1.jpg",
-            "Descrição": "O Violão Tagima Paraty é um instrumento excepcional, contando com um excelente custo-benefício, sendo perfeito para quem está iniciando no mundo da música. Constituído com tampo em Spruce, lateral e fundo em Agathis, o que proporciona ótima sonoridade encorpada e acabamento impecável.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Giannini N14N Acústico Nylon Natural",
             "Código": "50572",
             "Preço": "R$ 394,03",
@@ -896,6 +888,14 @@
             "Preço": "R$ 298,04",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/60747/500/1.jpg",
             "Descrição": "O Violão Harmonics GC-10 é o modelo perfeito para músicos iniciantes, que não abrem mão do som tradicional de um violão de qualidade. Apresenta um acabamento sofisticado considerado acima da média quando comparado a violões similares. O modelo Gc10 acústico clássico nylon é uma ótima opção de custo/benefício.\n\nA Harmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Harmonics GC-20 Acústico Nylon Natural",
+            "Código": "60749",
+            "Preço": "R$ 287,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/60749/500/1.jpg",
+            "Descrição": "O Violão Harmonics GC-20 é um instrumento musical que possui uma combinação de materiais focada em um timbre de qualidade, possuindo um custo x benefício excepcional.\n\nA Harmonics nasceu com a proposta de aliar alta qualidade, tecnologia e preço competitivo de mercado. Seguindo três frentes, a Harmonics trabalha com instrumentos de cordas, instrumentos de sopro e microfones, atendendo as principais demandas do mercado com extrema qualidade e precisão.\n\nFazendo parte de um grupo empresarial de mais de 50 anos de mercado, a Harmonics tem competência para se manter atualizada, buscando atender as necessidades de músicos que procuram um excelente custo/benefício em instrumentos musicais, som profissional, partes e acessórios.",
             "Imagens adicionais": []
         }
     ],
@@ -1425,7 +1425,7 @@
             "Código": "86302",
             "Preço": "R$ 1.233,32",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/86302/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "A Duo Smart-S é a mais nova integrante da aclamada série Smart da Tagima — agora em sua versão \"S\", projetada para músicos que exigem desempenho e praticidade em qualquer situação. Equipada com a poderosa configuração de captadores HSS (dois singles e um humbucker), ela entrega timbres brilhantes, limpos e também encorpados para distorções impactantes — perfeita para quem transita entre gêneros como rock, pop, blues e muito mais. Ideal para iniciantes e profissionais, a Duo Smart-S acompanha você do palco à prática silenciosa em casa, graças à sua saída para fones de ouvido integrada. Leve, funcional e estilosa, ela representa o novo conceito Tagima: instrumentos únicos, prontos para qualquer jornada musical.",
             "Imagens adicionais": []
         },
         {
