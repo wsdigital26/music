@@ -2,33 +2,33 @@ name: Coletar e atualizar produtos
 
 on:
   schedule:
-    - cron: "12 8 * * *"   # 08:12 UTC
-    - cron: "18 15 * * *"  # 15:18 UTC
-  workflow_dispatch:       # permite rodar manualmente
+    - cron: "12 8 * * *"    # 08:12 UTC
+    - cron: "18 15 * * *"   # 15:18 UTC
+  workflow_dispatch:        # Permite rodar manualmente
 
 jobs:
   build:
+    # Impede loop infinito de commit → workflow → commit
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Instalar dependências
         run: |
           sudo apt-get update
           sudo apt-get install -y python3 python3-pip wget unzip xvfb libxi6 google-chrome-stable
-
-          # Instalar libs Python do seu script
           pip3 install -r requirements.txt
 
       - name: Instalar ChromeDriver compatível
         run: |
-          # Pega versão completa do Chrome (ex: 139.0.7258.66)
           FULL_CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
           echo "Chrome versão completa: $FULL_CHROME_VERSION"
 
-          # Baixa ChromeDriver for Testing na versão correta
           DRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/${FULL_CHROME_VERSION}/linux64/chromedriver-linux64.zip"
           echo "Baixando driver: $DRIVER_URL"
 
@@ -37,30 +37,25 @@ jobs:
           sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
           sudo chmod +x /usr/local/bin/chromedriver
 
-      - name: Rodar script Python
-        run: |
-          python3 varredura.py   # ajuste para o nome real do seu script
+      - name: Rodar varredura
+        run: python3 varredura.py
 
-      - name: Commitar JSON atualizado automaticamente
+      - name: Commitar JSON atualizado
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Procura o arquivo JSON gerado pelo script
           ARQUIVO_JSON=$(find . -maxdepth 2 -type f -name "*.json" | head -n 1)
 
           if [ -z "$ARQUIVO_JSON" ]; then
-            echo "❌ Nenhum JSON encontrado para commitar."
+            echo "❌ Nenhum JSON encontrado."
             exit 0
           fi
 
-          echo "✅ Encontrado JSON: $ARQUIVO_JSON"
+          echo "✅ JSON encontrado: $ARQUIVO_JSON"
 
-          # Adiciona e faz commit do JSON
           git add "$ARQUIVO_JSON"
-          git commit -m "Atualizando JSON de produtos [skip ci]" || echo "Nenhuma mudança no JSON"
-
-          # Push usando GITHUB_TOKEN para autenticação
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/wsdigital26/music.git HEAD:main
+          git commit -m "Atualizando JSON de produtos" || echo "Nenhuma mudança para commitar"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
