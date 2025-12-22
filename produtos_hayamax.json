@@ -311,7 +311,7 @@
             "Código": "71294",
             "Preço": "R$ 2.593,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/71294/500/1.jpg",
-            "Descrição": "O Violão Yamaha FGX800C/02 é um instrumento incrível, que possui sonoridade limpa e agradável.\n\nConstituído por tampo em Solid Spruce e corte de corpo e sistema elétrico, captador piezo sob rastilho e pré-amplificador analógico system66 de propriedade da Yamaha que garante todo o desempenho amplificado sólido.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -927,7 +927,7 @@
             "Código": "84914",
             "Preço": "R$ 84,46",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/84914/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "O Encordoamento Para Violão .012-.053 Resonance Pro da Tagima é a escolha ideal para músicos que buscam um som excepcional e durabilidade incomparável em suas performances. Combinando materiais de alta qualidade e tecnologia de ponta, o encordoamento Tagima oferece uma experiência única.",
             "Imagens adicionais": []
         },
         {
@@ -993,7 +993,7 @@
             "Código": "82296",
             "Preço": "R$ 2.194,21",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82296/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -1021,18 +1021,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-590STD Aged Tobacco Sunburst",
-            "Código": "82315",
-            "Preço": "R$ 1.988,51",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82315/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II PE-590STD Aged Cherry Sunburst",
             "Código": "82312",
             "Preço": "R$ 1.988,51",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82312/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II PE-590STD Aged Tobacco Sunburst",
+            "Código": "82315",
+            "Preço": "R$ 1.988,51",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82315/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1042,14 +1042,6 @@
             "Preço": "R$ 1.988,51",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79943/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II 615-GH Nashville é um modelo clássico com acabamento vintage, e é bastante popular entre músicos de diversos estilos, desde country e blues até rock e pop. Com um corpo de Poplar, braço em maple e escala em rosewood, esta guitarra apresenta uma jogabilidade confortável e rápida, graças aos seus 22 trastes.\n\nAlém disso, a Aria Pro II 615-GH possui controles de volume e tonalidade que permitem ajustar o som da guitarra de acordo com suas preferências musicais. Se você está em busca de uma guitarra que oferece um som autêntico e jogabilidade confortável, a Aria Pro II Série 615-GH Nashville é definitivamente uma excelente escolha.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Ruby Red",
-            "Código": "79941",
-            "Preço": "R$ 1.987,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79941/500/1.jpg",
-            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1109,6 +1101,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Aria Pro II PE-350STD Aged Cherry Sunburst",
+            "Código": "79961",
+            "Preço": "R$ 1.851,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79961/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Aria Pro II PE-350STD Aged Brown Sunburst",
             "Código": "79962",
             "Preço": "R$ 1.851,36",
@@ -1133,10 +1133,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-350STD Aged Cherry Sunburst",
-            "Código": "79961",
+            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Marble White",
+            "Código": "79959",
             "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79961/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79959/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1145,14 +1145,6 @@
             "Código": "79958",
             "Preço": "R$ 1.851,36",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79958/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Marble White",
-            "Código": "79959",
-            "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79959/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1237,6 +1229,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Red Shade",
+            "Código": "79970",
+            "Preço": "R$ 1.714,21",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79970/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Aria Pro II MAC-STD Pearl White",
             "Código": "79971",
             "Preço": "R$ 1.714,21",
@@ -1249,14 +1249,6 @@
             "Código": "79968",
             "Preço": "R$ 1.714,21",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79968/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Red Shade",
-            "Código": "79970",
-            "Preço": "R$ 1.714,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79970/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1290,6 +1282,14 @@
             "Preço": "R$ 1.714,13",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/87481/500/1.jpg",
             "Descrição": "A Tagima Les Paul Jr Sixmart Signature Whindersson Nunes é uma guitarra assinatura criada em collab com o músico, comediante e YouTuber Whindersson Nunes. Este modelo exclusivo combina design inovador e tecnologia integrada, oferecendo aos guitarristas a possibilidade de acessar efeitos como Delay, Reverb, Overdrive e Distortion diretamente no corpo do instrumento.\n\nCom knobs intuitivos, você controla cada nuance do som de maneira prática, tornando a guitarra perfeita para performances ao vivo, estúdio ou gravações caseiras. Seu design inspirado na clássica Les Paul Jr garante tocabilidade confortável, sustain expressivo e versatilidade para diversos estilos musicais, do rock ao pop.\n\nPerfeita para fãs de Whindersson Nunes e músicos que buscam uma guitarra elétrica versátil, moderna e cheia de personalidade, a Tagima Sixmart Signature transforma cada riff em uma experiência sonora única, elevando suas performances a um novo nível.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Ruby Red",
+            "Código": "79941",
+            "Preço": "R$ 1.679,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79941/500/1.jpg",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
