@@ -317,7 +317,7 @@
         {
             "Nome": "Violão Giannini Frand Auditorium Ceq Eletroacústico Aço Natural Satin",
             "Código": "85793",
-            "Preço": "R$ 1.799,88",
+            "Preço": "R$ 1.799,05",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/85793/500/1.jpg",
             "Descrição": "O Violão Giannini Frand Auditorium CEQ é um modelo que faz parte da série Performance Deluxe da Giannini, referência quando o assunto é violão de qualidade superior para os gostos mais apurados. Possuindo tensor bi-direcional, equalizador de 2 bandas com afinador embutido e tarraxas blindadas que garantem maior estabilidade na afinação, o Frand Auditorium CEQ é um instrumento versátil e elegante, ideal para músicos exigentes.\n\nPossuindo faixa e fundo em sapale, este modelo proporciona um timbre encorpado e visual refinado. Acompanha bag de náilon na cor preta para transporte e proteção, o Violão Giannini Frand Auditorium CEQ é um excelente modelo para quem busca praticidade e qualidade em um só instrumento.\n\nA Giannini nasceu há mais de 120 anos, tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.\n\nO crescimento da marca a levou a se tornar uma referência, principalmente em instrumentos acústicos. Até hoje sua produção e importação aliam a eficiente técnica artesanal ao que há de mais moderno em tecnologia industrial. Seus produtos passam por um rígido controle de qualidade e já saem das fábricas impregnados com a credibilidade e os cuidados que são característicos da marca desde 1900.",
             "Imagens adicionais": []
@@ -325,7 +325,7 @@
         {
             "Nome": "Violão Giannini Performance Deluxe Dreadnought Ceq Sunburst",
             "Código": "85791",
-            "Preço": "R$ 1.799,88",
+            "Preço": "R$ 1.799,05",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/85791/500/1.jpg",
             "Descrição": "O Violão Giannini Performance Deluxe é ideal para músicos que buscam qualidade e desempenho excepcionais. Com o shape Dreadnought Cutaway, ele oferece um som encorpado e equilibrado, ideal tanto para iniciantes quanto para músicos mais experientes.\n\nJá o tensor bi-direcional proporciona um ajuste preciso e fácil da tensão das cordas, garantindo maior estabilidade e durabilidade ao instrumento. Suas 2 bandas de equalização permitem personalizar o timbre conforme suas preferências, enquanto o afinador integrado facilita a afinação perfeita em qualquer momento. As tarraxas blindadas garantem maior precisão e durabilidade, mantendo o violão sempre afinado.\n\nO Giannini Performance Deluxe é um violão completo, com design sofisticado e recursos ideais para quem busca um som de qualidade profissional.",
             "Imagens adicionais": []
@@ -867,19 +867,19 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Encordoamento Para Violão .012-.053 Resonance Premium Tagima",
+            "Código": "84913",
+            "Preço": "R$ 66,83",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/84913/500/1.jpg",
+            "Descrição": "O Encordoamento Para Violão .012-.053 Resonance Premium da Tagima é a escolha ideal para músicos que buscam um som excepcional e durabilidade incomparável em suas performances. Combinando materiais de alta qualidade e tecnologia de ponta, o encordoamento Tagima oferece uma experiência única.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Encordoamento Para Violão .011-.052 Resonance Premium Tagima",
             "Código": "84910",
             "Preço": "R$ 66,83",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/84910/500/1.jpg",
             "Descrição": "O Encordoamento Para Violão .011-.052 Resonance Premium da Tagima é a escolha ideal para músicos que buscam um som excepcional e durabilidade incomparável em suas performances. Combinando materiais de alta qualidade e tecnologia de ponta, o encordoamento Tagima oferece uma experiência única.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Encordoamento Para Violão .012-.053 Resonance Premium Tagima",
-            "Código": "84913",
-            "Preço": "R$ 62,28",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/84913/500/1.jpg",
-            "Descrição": "O Encordoamento Para Violão .012-.053 Resonance Premium da Tagima é a escolha ideal para músicos que buscam um som excepcional e durabilidade incomparável em suas performances. Combinando materiais de alta qualidade e tecnologia de ponta, o encordoamento Tagima oferece uma experiência única.",
             "Imagens adicionais": []
         },
         {
@@ -901,7 +901,7 @@
         {
             "Nome": "Encordoamento Para Violão .012-.053 Resonance Basic Tagima",
             "Código": "84912",
-            "Preço": "R$ 44,28",
+            "Preço": "R$ 46,80",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/84912/500/1.jpg",
             "Descrição": "O Encordoamento Para Violão .012-.053 Resonance Basic da Tagima é a escolha ideal para músicos que buscam um som excepcional e durabilidade incomparável em suas performances. Combinando materiais de alta qualidade e tecnologia de ponta, o encordoamento Tagima oferece uma experiência única.",
             "Imagens adicionais": []
