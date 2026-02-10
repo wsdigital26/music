@@ -1293,14 +1293,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Tagima Strato TG-525 Candy Apple",
-            "Código": "87843",
-            "Preço": "R$ 1.032,52",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/87843/500/1.jpg",
-            "Descrição": "A Guitarra Tagima Strato TG-525 é um modelo versátil e completa, projetada para entregar ótimo desempenho tanto para quem está iniciando quanto para músicos experientes. Construída com corpo em poplar e braço em hard maple, ela oferece conforto ao tocar, boa sustentação e resistência no dia a dia.  \n \nSeu visual marcante na cor Candy Apple, combinado com escala escura e escudo Aged White, garante um estilo clássico e moderno ao mesmo tempo. \n \nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Tagima Strato TG-525 Black",
             "Código": "87667",
             "Preço": "R$ 1.032,52",
@@ -1309,11 +1301,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Tagima TG-520 Black",
-            "Código": "73324",
-            "Preço": "R$ 1.021,33",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/73324/500/1.jpg",
-            "Descrição": "A Guitarra Tagima TG-520 é um instrumento incomparável, possuindo acabamento em metálico, se torna um dos modelos mais desejados pelos músicos. Constituída com corpo em basswood, braço em maple e dois captadores single coils e um captador humbucker, proporcionando assim sons fortes e firmes com um estilo próprio Tagima. \n \nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Nome": "Guitarra Tagima Strato TG-525 Candy Apple",
+            "Código": "87843",
+            "Preço": "R$ 1.032,52",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/87843/500/1.jpg",
+            "Descrição": "A Guitarra Tagima Strato TG-525 é um modelo versátil e completa, projetada para entregar ótimo desempenho tanto para quem está iniciando quanto para músicos experientes. Construída com corpo em poplar e braço em hard maple, ela oferece conforto ao tocar, boa sustentação e resistência no dia a dia.  \n \nSeu visual marcante na cor Candy Apple, combinado com escala escura e escudo Aged White, garante um estilo clássico e moderno ao mesmo tempo. \n \nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
@@ -1381,18 +1373,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 714-STD Fullerton Black",
-            "Código": "79954",
-            "Preço": "R$ 788,51",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79954/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II 714-STD Fullerton 3 Tone Sunburst",
             "Código": "79953",
             "Preço": "R$ 788,51",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79953/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II 714-STD Fullerton Black",
+            "Código": "79954",
+            "Preço": "R$ 788,51",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79954/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1562,6 +1554,14 @@
             "Preço": "R$ 47,93",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83309/500/1.jpg",
             "Descrição": "O Encordoamento Para Violão Coated .010 Phosphor Bronze AGS200CXL da Aria Guitars é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, cada conjunto da série AGS C mantém o tom familiar das cordas sem revestimento, ao mesmo tempo que prolonga sua durabilidade. \n\nProporcionando vibrações consistentes com maior amplitude, resultando em tons mais nítidos, claros e precisos, o Encordoamento Para Violão Extra Leve Coated .010 AGS200CXL é ideal para músicos que buscam longevidade e qualidade sonora excepcional, as cordas de bronze fosforoso CTA oferecem tudo isso.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Encordoamento Para Violão Coated .011 Phosphor Bronze AGS200CL Aria",
+            "Código": "83310",
+            "Preço": "R$ 47,93",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83310/500/1.jpg",
+            "Descrição": "O Encordoamento Para Violão Coated .011 Phosphor Bronze AGS200CL da Aria Guitars é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, cada conjunto da série AGS C mantém o tom familiar das cordas sem revestimento, ao mesmo tempo que prolonga sua durabilidade. \n\nProporcionando vibrações consistentes com maior amplitude, resultando em tons mais nítidos, claros e precisos, o Encordoamento Para Violão Extra Leve Coated .010 AGS200CL é ideal para músicos que buscam longevidade e qualidade sonora excepcional, as cordas de bronze fosforoso CTA oferecem tudo isso.",
             "Imagens adicionais": []
         }
     ]
