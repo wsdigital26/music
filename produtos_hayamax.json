@@ -65,6 +65,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Teclado Yamaha PSR-SX720 Arranjador Preto",
+            "Código": "85108",
+            "Preço": "R$ 9.926,23",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/85108/500/1.jpg",
+            "Descrição": "O Teclado Yamaha PSR-SX720 é um modelo do tipo arranjador, sendo essa uma excelente opção para quem deseja elevar suas performances a um novo patamar. Fazendo parte da renomada série PSR-SX, ele traz tecnologias avançadas como Super Articulation, que proporciona timbres mais realistas, e o inovador Crossfade Portamento, que permite transições suaves entre notas.\n\nCom uma interface intuitiva e recursos versáteis, o PSR-SX720 é perfeito tanto para composições quanto para apresentações ao vivo. Ele oferece uma gama impressionante de sons e ritmos que adicionam uma profundidade emocional a cada interpretação.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Teclado Yamaha MX88BK Sintetizador Preto",
             "Código": "67818",
             "Preço": "R$ 8.017,48",
@@ -86,14 +94,6 @@
             "Preço": "R$ 6.078,89",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/78708/500/1.jpg",
             "Descrição": "O Piano Yamaha YDP105B é um instrumento excepcional, como sonoridade incomparável, além de ser fácil de tocar.\nProjetado com 88 teclas, feito especialmente para reproduzir som equilibrado em toda a extensão do piano, com graves nítidos e poderosos, contando com um timbre excelente.\n\nEste modelo ainda possui tocabilidade, controle de pedais e reprodução a ressonância autênticos como um piano acústico, proporcionando melhor proveito das músicas integradas, junto com funções práticas e intuitivas e visualização de pontuações com o app smart pianist, além de possuir design elegante para combinar com o seu espaço.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Teclado Yamaha MX61 BK Sintetizador Preto",
-            "Código": "62236",
-            "Preço": "R$ 4.963,14",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/62236/500/1.jpg",
-            "Descrição": "O Teclado Yamaha MX61 BK Sintetizador é um modelo inspirado nos sons da linha MOTIF XS. Integração extensiva de controles. O Melhor da Categoria.\n\nO MX61 é um sintetizador musical de 61 teclas que combina os sons Motif XS, conexão USB Áudio/MIDI e funções avançadas de controle DAW/VST a um nível superior de acessibilidade.\n\nA nova série MX da Yamaha combina os sons Motif XS, conectividade USB Áudio/MIDI e funções avançadas de controle para DAW/VST a um nível inovador.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
             "Imagens adicionais": []
         },
         {
@@ -515,18 +515,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Giannini GF1D CEQ Eletroacústico Aço Satin Black",
-            "Código": "63566",
-            "Preço": "R$ 766,91",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/63566/500/1.jpg",
-            "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Giannini GF1D CEQ Eletroacústico Aço Translucent Dark Wine Dark",
             "Código": "63565",
             "Preço": "R$ 766,91",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/63565/500/1.jpg",
+            "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Giannini GF1D CEQ Eletroacústico Aço Satin Black",
+            "Código": "63566",
+            "Preço": "R$ 766,91",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/63566/500/1.jpg",
             "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
@@ -600,6 +600,14 @@
             "Preço": "R$ 702,48",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/65712/500/1.jpg",
             "Descrição": "O Violão Giannini GNF-1D é o instrumento de entrada ideal para o mundo musical, mas também é excelente para músicos procuram a qualidade de um bom violão.\n\nPossuindo encordoamento de nylon, este instrumento se torna um dos mais aclamados da marca Giannini.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Giannini GNF1D Mini Jumbo Nylon Natural Fosco",
+            "Código": "72604",
+            "Preço": "R$ 702,48",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/72604/500/1.jpg",
+            "Descrição": "O Violão Giannini GNF1D é o instrumento de entrada ideal para o mundo musical, mas também é excelente para músicos procuram a qualidade de um bom violão.\n\nPossuindo encordoamento de nylon, este instrumento se torna um dos mais aclamados da marca Giannini.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
         {
