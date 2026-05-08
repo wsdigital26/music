@@ -969,7 +969,7 @@
             "Código": "82304",
             "Preço": "R$ 2.194,21",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82304/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1253,10 +1253,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
-            "Código": "79946",
+            "Nome": "Guitarra Aria Pro II J-1 See-Through Vintage White",
+            "Código": "79947",
             "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79947/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1277,18 +1277,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-1 See-Through Vintage White",
-            "Código": "79947",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79947/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II J-1 Black",
             "Código": "79945",
             "Preço": "R$ 1.371,36",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79945/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
+            "Código": "79946",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1301,10 +1301,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-TL Black",
-            "Código": "79951",
+            "Nome": "Guitarra Aria Pro II J-TL See-Through Vintage White",
+            "Código": "79952",
             "Preço": "R$ 1.302,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79951/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79952/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1317,10 +1317,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-TL See-Through Vintage White",
-            "Código": "79952",
+            "Nome": "Guitarra Aria Pro II J-TL Black",
+            "Código": "79951",
             "Preço": "R$ 1.302,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79952/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79951/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1389,10 +1389,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-002 Black",
-            "Código": "79931",
+            "Nome": "Guitarra Aria Pro II TEG-002 Candy Apple Red",
+            "Código": "79932",
             "Preço": "R$ 822,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79931/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79932/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1405,10 +1405,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-002 Candy Apple Red",
-            "Código": "79932",
+            "Nome": "Guitarra Aria Pro II TEG-002 Black",
+            "Código": "79931",
             "Preço": "R$ 822,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79932/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79931/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1461,6 +1461,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Giannini G100 Sunburst Com Escudo Tortoise",
+            "Código": "45302",
+            "Preço": "R$ 729,38",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/45302/500/1.jpg",
+            "Descrição": "Marca: GIANNINI",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Giannini G100 Vermelha Com Escudo Branco",
             "Código": "38389",
             "Preço": "R$ 729,38",
@@ -1481,23 +1489,7 @@
             "Código": "38402",
             "Preço": "R$ 729,38",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/38402/500/1.jpg",
-            "Descrição": "",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Giannini G100 Sunburst Com Escudo Tortoise",
-            "Código": "45302",
-            "Preço": "R$ 729,38",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/45302/500/1.jpg",
             "Descrição": "Marca: GIANNINI",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-003/SPL 3 Tone Sunburst",
-            "Código": "79916",
-            "Preço": "R$ 726,54",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79916/500/1.jpg",
-            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1513,6 +1505,14 @@
             "Código": "79914",
             "Preço": "R$ 726,54",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79914/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-003/SPL 3 Tone Sunburst",
+            "Código": "79916",
+            "Preço": "R$ 726,54",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79916/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1541,19 +1541,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Encordoamento Para Guitarra Flat Wound .011 AGS900XL Aria Pro II",
-            "Código": "83301",
-            "Preço": "R$ 75,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83301/500/1.jpg",
-            "Descrição": "O Encordoamento Para Guitarra Flat Wound .011 AGS900XL da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Encordoamento Para Guitarra Flat Wound .012 AGS900L Aria Pro II",
             "Código": "83302",
             "Preço": "R$ 75,36",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83302/500/1.jpg",
             "Descrição": "O Encordoamento Para Guitarra Flat Wound .012 AGS900L da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Encordoamento Para Guitarra Flat Wound .011 AGS900XL Aria Pro II",
+            "Código": "83301",
+            "Preço": "R$ 75,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83301/500/1.jpg",
+            "Descrição": "O Encordoamento Para Guitarra Flat Wound .011 AGS900XL da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
             "Imagens adicionais": []
         },
         {
