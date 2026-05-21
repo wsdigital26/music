@@ -439,7 +439,7 @@
             "Código": "83083",
             "Preço": "R$ 929,70",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83083/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "O Violão Tagima Rio Negro é um modelo que une a qualidade com um visual vibrante com custo acessível. Este modelo eletroacústico Grand Auditorium Cutaway em aço, é construído com precisão e paixão. Com corpo no formato Grand Auditorium, este modelo oferece sonoridade equilibrada e rica, com graves consistentes e agudos claros.\n\nO tampo em Spruce proporciona uma ressonância brilhante e articulada, enquanto as laterais e o fundo em Agathis contribuem para uma resposta sonora quente e encorpada. O braço em Okume, com um confortável shape em C, oferece uma tocabilidade suave e ágil, permitindo horas de prazer musical sem fadiga.\n\nCom uma escala em Tech Wood e uma extensão de 25.5\", este violão garante uma experiência de tocabilidade confortável e consistente em toda a sua extensão. Além disso, sua eletrônica confiável permite que você o conecte a amplificadores ou sistemas de som, levando sua música a novos patamares de alcance e expressão.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
@@ -495,7 +495,7 @@
             "Código": "82793",
             "Preço": "R$ 867,89",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82793/500/1.jpg",
-            "Descrição": "O Violão Mini Tagima Porteño faz parte da linha Latin América, que é uma celebração da cultura latino-americana, unindo um visual inovador a um excepcional custo/benefício. Este modelo se destaca na coleção com seu design moderno e tamanho mini (menor se comparado aos demais modelos da linha), trazendo um toque contemporâneo aos tradicionais shapes da linha.\n\nConstruído no formato GS Mini Non-Cutaway, o Porteño oferece uma experiência sonora única, proporcionando graves robustos em uma estrutura compacta. Seu tampo em Spruce e o corpo em Agathis garantem uma qualidade tonal excepcional. O braço em Okume com formato em C e a escala em Tech Wood de 23.5\" complementam a experiência de tocar, tornando o Violão Tagima Porteño uma escolha envolvente para músicos que buscam estilo, inovação e desempenho sonoro.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -535,7 +535,7 @@
             "Código": "63566",
             "Preço": "R$ 766,91",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/63566/500/1.jpg",
-            "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -853,14 +853,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 212-MK2 Bowery Black",
-            "Código": "82321",
-            "Preço": "R$ 3.085,64",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82321/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II 212-MK2 Bowery é um modelo que combina design elegante e construção leve, proporcionando um equilíbrio perfeito para ensaios ou até mesmo apresentações ao vivo. Equipada com um par de mini-humbuckers, esta guitarra emite uma ressonância semi-oca pura, repleta de harmônicos ricos de médio alcance.  \n\nConstituída por um corpo em mogno sólido, a Aria Pro II 212-MK2 cria tons exuberantes, enquanto o corte sem calcanhar permite acesso suave às posições de trastes mais altas. Já a ponte Bigsby é outro ponto a ser destacado, este detalhe entrega ao músico um vibrato arejado e suave e uma vibração de classe inegável. Com essas características a Guitarra Aria Pro II 212-MK2 Bowery é o modelo ideal para quem preza por alta qualidade e sonoridade impecável.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II 212-MK2 Bowery Cadillac Pink",
             "Código": "82324",
             "Preço": "R$ 3.085,64",
@@ -869,11 +861,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-F80 Stained Brown",
-            "Código": "82317",
-            "Preço": "R$ 2.399,93",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82317/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Nome": "Guitarra Aria Pro II 212-MK2 Bowery Black",
+            "Código": "82321",
+            "Preço": "R$ 3.085,64",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82321/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II 212-MK2 Bowery é um modelo que combina design elegante e construção leve, proporcionando um equilíbrio perfeito para ensaios ou até mesmo apresentações ao vivo. Equipada com um par de mini-humbuckers, esta guitarra emite uma ressonância semi-oca pura, repleta de harmônicos ricos de médio alcance.  \n\nConstituída por um corpo em mogno sólido, a Aria Pro II 212-MK2 cria tons exuberantes, enquanto o corte sem calcanhar permite acesso suave às posições de trastes mais altas. Já a ponte Bigsby é outro ponto a ser destacado, este detalhe entrega ao músico um vibrato arejado e suave e uma vibração de classe inegável. Com essas características a Guitarra Aria Pro II 212-MK2 Bowery é o modelo ideal para quem preza por alta qualidade e sonoridade impecável.",
             "Imagens adicionais": []
         },
         {
@@ -885,10 +877,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-480 Brown Sunburst",
-            "Código": "82309",
+            "Nome": "Guitarra Aria Pro II PE-F80 Stained Brown",
+            "Código": "82317",
+            "Preço": "R$ 2.399,93",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82317/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II PE-480 See-Through Black Burst",
+            "Código": "82311",
             "Preço": "R$ 2.262,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82309/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82311/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -901,10 +901,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-480 See-Through Black Burst",
-            "Código": "82311",
+            "Nome": "Guitarra Aria Pro II PE-480 Brown Sunburst",
+            "Código": "82309",
             "Preço": "R$ 2.262,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82311/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82309/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -997,26 +997,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Ruby Red",
-            "Código": "79958",
+            "Nome": "Guitarra Aria Pro II PE-350STD Aged Black",
+            "Código": "79963",
             "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79958/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Marble White",
-            "Código": "79959",
-            "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79959/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II PE-350STD Aged Cherry Sunburst",
-            "Código": "79961",
-            "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79961/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79963/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1029,34 +1013,26 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-350STD Aged Black",
-            "Código": "79963",
+            "Nome": "Guitarra Aria Pro II PE-350STD Aged Cherry Sunburst",
+            "Código": "79961",
             "Preço": "R$ 1.851,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79963/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79961/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II STG-62 Vintage White",
-            "Código": "79929",
-            "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79929/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II TEG-TL White Tortoise Pickguard",
-            "Código": "79938",
-            "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79938/500/1.jpg",
+            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Marble White",
+            "Código": "79959",
+            "Preço": "R$ 1.851,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79959/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-TL Metallic Ice Blue",
-            "Código": "79937",
-            "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79937/500/1.jpg",
+            "Nome": "Guitarra Aria Pro II 714-MK2 Fullerton Ruby Red",
+            "Código": "79958",
+            "Preço": "R$ 1.851,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79958/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1069,10 +1045,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-TL Natural",
-            "Código": "79935",
+            "Nome": "Guitarra Aria Pro II TEG-TL Metallic Ice Blue",
+            "Código": "79937",
             "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79935/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79937/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1085,10 +1061,34 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Aria Pro II TEG-TL White Tortoise Pickguard",
+            "Código": "79938",
+            "Preço": "R$ 1.782,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79938/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II TEG-TL Natural",
+            "Código": "79935",
+            "Preço": "R$ 1.782,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79935/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Aria Pro II STG-62 3 Tone Sunburst",
             "Código": "79927",
             "Preço": "R$ 1.782,79",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79927/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-62 Vintage White",
+            "Código": "79929",
+            "Preço": "R$ 1.782,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79929/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
             "Imagens adicionais": []
         },
@@ -1125,10 +1125,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Black",
-            "Código": "79968",
+            "Nome": "Guitarra Aria Pro II MAC-STD Pearl White",
+            "Código": "79971",
             "Preço": "R$ 1.714,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79968/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79971/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Red Shade",
+            "Código": "79970",
+            "Preço": "R$ 1.714,21",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79970/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1141,18 +1149,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Red Shade",
-            "Código": "79970",
+            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Black",
+            "Código": "79968",
             "Preço": "R$ 1.714,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79970/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II MAC-STD Pearl White",
-            "Código": "79971",
-            "Preço": "R$ 1.714,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79971/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79968/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1162,14 +1162,6 @@
             "Preço": "R$ 1.714,13",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/87481/500/1.jpg",
             "Descrição": "A Tagima Les Paul Jr Sixmart Signature Whindersson Nunes é uma guitarra assinatura criada em collab com o músico, comediante e YouTuber Whindersson Nunes. Este modelo exclusivo combina design inovador e tecnologia integrada, oferecendo aos guitarristas a possibilidade de acessar efeitos como Delay, Reverb, Overdrive e Distortion diretamente no corpo do instrumento.\n\nCom knobs intuitivos, você controla cada nuance do som de maneira prática, tornando a guitarra perfeita para performances ao vivo, estúdio ou gravações caseiras. Seu design inspirado na clássica Les Paul Jr garante tocabilidade confortável, sustain expressivo e versatilidade para diversos estilos musicais, do rock ao pop.\n\nPerfeita para fãs de Whindersson Nunes e músicos que buscam uma guitarra elétrica versátil, moderna e cheia de personalidade, a Tagima Sixmart Signature transforma cada riff em uma experiência sonora única, elevando suas performances a um novo nível.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Black Diamond",
-            "Código": "79939",
-            "Preço": "R$ 1.619,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79939/500/1.jpg",
-            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1189,10 +1181,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-2 See-Through Vintage White",
-            "Código": "82298",
+            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Black Diamond",
+            "Código": "79939",
+            "Preço": "R$ 1.619,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79939/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-2 Candy Apple Red",
+            "Código": "79948",
             "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82298/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79948/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1229,10 +1229,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-2 Candy Apple Red",
-            "Código": "79948",
+            "Nome": "Guitarra Aria Pro II J-2 See-Through Vintage White",
+            "Código": "82298",
             "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79948/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82298/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1242,14 +1242,6 @@
             "Preço": "R$ 1.312,84",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83086/500/1.jpg",
             "Descrição": "A Guitarra Tagima Sixmart é um modelo que redefine a experiência de tocar guitarra. O seu diferencial é a inclusão de efeitos embutidos diretamente no instrumento. Imagine ter acesso instantâneo a efeitos de Delay, Reverb, Overdrive e Distortion, tudo facilmente controlado pelos knobs da guitarra.\n\nPossuindo acabamento e coloração em Candu Apple, a Guitarra Tagima Sixmart transmite visual impecável, que se destaca em qualquer ambiente. Com saída de fone e entrada auxiliar P2 incorporadas no escudo da guitarra, é possível praticar silenciosamente ou tocar acompanhado de backing tracks, desfrutando de áudio limpo ou com efeitos, diretamente nos seus ouvidos. A Tagima é uma marca sinônimo de qualidade, e a Guitarra Tagima Sixmart é o exemplo perfeito dessa excelência.\n\nSe você busca inovação, versatilidade e qualidade sonora, a Guitarra Tagima Sixmart é a escolha ideal para músicos exigentes.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II J-TL See-Through Vintage White",
-            "Código": "79952",
-            "Preço": "R$ 1.302,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79952/500/1.jpg",
-            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1265,6 +1257,14 @@
             "Código": "79951",
             "Preço": "R$ 1.302,79",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79951/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-TL See-Through Vintage White",
+            "Código": "79952",
+            "Preço": "R$ 1.302,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79952/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1405,14 +1405,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Giannini G100 Sunburst Com Escudo Tortoise",
-            "Código": "45302",
-            "Preço": "R$ 729,38",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/45302/500/1.jpg",
-            "Descrição": "Marca: GIANNINI",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Giannini G100 Vermelha Com Escudo Branco",
             "Código": "38389",
             "Preço": "R$ 729,38",
@@ -1437,19 +1429,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II Série STG-003/M LH Black (canhoto)",
-            "Código": "79915",
-            "Preço": "R$ 726,54",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79915/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-003/M LH 3 Tone Sunburst (canhoto)",
-            "Código": "79914",
-            "Preço": "R$ 726,54",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79914/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Nome": "Guitarra Giannini G100 Sunburst Com Escudo Tortoise",
+            "Código": "45302",
+            "Preço": "R$ 729,38",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/45302/500/1.jpg",
+            "Descrição": "Marca: GIANNINI",
             "Imagens adicionais": []
         },
         {
@@ -1457,6 +1441,14 @@
             "Código": "79916",
             "Preço": "R$ 726,54",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79916/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II Série STG-003/M LH Black (canhoto)",
+            "Código": "79915",
+            "Preço": "R$ 726,54",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79915/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1485,19 +1477,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Encordoamento Para Guitarra Flat Wound .012 AGS900L Aria Pro II",
-            "Código": "83302",
-            "Preço": "R$ 75,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83302/500/1.jpg",
-            "Descrição": "O Encordoamento Para Guitarra Flat Wound .012 AGS900L da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Encordoamento Para Guitarra Flat Wound .011 AGS900XL Aria Pro II",
             "Código": "83301",
             "Preço": "R$ 75,36",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83301/500/1.jpg",
             "Descrição": "O Encordoamento Para Guitarra Flat Wound .011 AGS900XL da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Encordoamento Para Guitarra Flat Wound .012 AGS900L Aria Pro II",
+            "Código": "83302",
+            "Preço": "R$ 75,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83302/500/1.jpg",
+            "Descrição": "O Encordoamento Para Guitarra Flat Wound .012 AGS900L da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
             "Imagens adicionais": []
         },
         {
@@ -1509,14 +1501,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Encordoamento Para Violão Coated .010 Phosphor Bronze AGS200CXL Aria",
-            "Código": "83309",
-            "Preço": "R$ 47,93",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83309/500/1.jpg",
-            "Descrição": "O Encordoamento Para Violão Coated .010 Phosphor Bronze AGS200CXL da Aria Guitars é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, cada conjunto da série AGS C mantém o tom familiar das cordas sem revestimento, ao mesmo tempo que prolonga sua durabilidade. \n\nProporcionando vibrações consistentes com maior amplitude, resultando em tons mais nítidos, claros e precisos, o Encordoamento Para Violão Extra Leve Coated .010 AGS200CXL é ideal para músicos que buscam longevidade e qualidade sonora excepcional, as cordas de bronze fosforoso CTA oferecem tudo isso.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Encordoamento Para Violão Coated .011 Phosphor Bronze AGS200CL Aria",
             "Código": "83310",
             "Preço": "R$ 47,93",
@@ -1525,11 +1509,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Encordoamento Para Guitarra Coated .009 AGS800CXL Aria Pro II",
-            "Código": "83299",
-            "Preço": "R$ 44,51",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83299/500/1.jpg",
-            "Descrição": "O Encordoamento Para Guitarra Coated .009 AGS800CXL da Aria Pro II é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, mantém o som familiar e ao mesmo tempo prolonga a vida útil das cordas. \n\nFabricadas com os mais altos padrões, as cordas revestidas da série AGS800C foram projetadas para elevar a experiência musical, proporcionando maior prazer e desempenho. Já a tecnologia de revestimento avançada garante uma reprodução sonora precisa, enquanto minimiza ruídos indesejados, permitindo que você se expresse com clareza e confiança.",
+            "Nome": "Encordoamento Para Violão Coated .010 Phosphor Bronze AGS200CXL Aria",
+            "Código": "83309",
+            "Preço": "R$ 47,93",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83309/500/1.jpg",
+            "Descrição": "O Encordoamento Para Violão Coated .010 Phosphor Bronze AGS200CXL da Aria Guitars é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, cada conjunto da série AGS C mantém o tom familiar das cordas sem revestimento, ao mesmo tempo que prolonga sua durabilidade. \n\nProporcionando vibrações consistentes com maior amplitude, resultando em tons mais nítidos, claros e precisos, o Encordoamento Para Violão Extra Leve Coated .010 AGS200CXL é ideal para músicos que buscam longevidade e qualidade sonora excepcional, as cordas de bronze fosforoso CTA oferecem tudo isso.",
             "Imagens adicionais": []
         },
         {
@@ -1541,11 +1525,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Encordoamento Para Violão Nylon Tensão Alta AGS400HT Aria Guitars",
-            "Código": "83312",
+            "Nome": "Encordoamento Para Guitarra Coated .009 AGS800CXL Aria Pro II",
+            "Código": "83299",
             "Preço": "R$ 44,51",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83312/500/1.jpg",
-            "Descrição": "O Encordoamento Para Violão Nylon Tensão Alta AGS400HT da Aria Guitars é um modelo que conta com revestimento em prata, combinando núcleos multifilamentares, oferecendo durabilidade e valor sem comprometer a qualidade. Ideais para guitarras clássicas de qualquer tipo, o Encordoamento Para Guitarra Tensão Alta AGS400HT é projetado para ter uma vida útil mais longa, atendendo a uma ampla variedade de músicos.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83299/500/1.jpg",
+            "Descrição": "O Encordoamento Para Guitarra Coated .009 AGS800CXL da Aria Pro II é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, mantém o som familiar e ao mesmo tempo prolonga a vida útil das cordas. \n\nFabricadas com os mais altos padrões, as cordas revestidas da série AGS800C foram projetadas para elevar a experiência musical, proporcionando maior prazer e desempenho. Já a tecnologia de revestimento avançada garante uma reprodução sonora precisa, enquanto minimiza ruídos indesejados, permitindo que você se expresse com clareza e confiança.",
             "Imagens adicionais": []
         },
         {
@@ -1554,6 +1538,22 @@
             "Preço": "R$ 44,51",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83300/500/1.jpg",
             "Descrição": "O Encordoamento Para Guitarra Coated .010 AGS800CL da Aria Pro II é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, mantém o som familiar e ao mesmo tempo prolonga a vida útil das cordas. \n\nFabricadas com os mais altos padrões, as cordas revestidas da série AGS800C foram projetadas para elevar a experiência musical, proporcionando maior prazer e desempenho. Já a tecnologia de revestimento avançada garante uma reprodução sonora precisa, enquanto minimiza ruídos indesejados, permitindo que você se expresse com clareza e confiança.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Encordoamento Para Violão Nylon Tensão Alta AGS400HT Aria Guitars",
+            "Código": "83312",
+            "Preço": "R$ 44,51",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83312/500/1.jpg",
+            "Descrição": "O Encordoamento Para Violão Nylon Tensão Alta AGS400HT da Aria Guitars é um modelo que conta com revestimento em prata, combinando núcleos multifilamentares, oferecendo durabilidade e valor sem comprometer a qualidade. Ideais para guitarras clássicas de qualquer tipo, o Encordoamento Para Guitarra Tensão Alta AGS400HT é projetado para ter uma vida útil mais longa, atendendo a uma ampla variedade de músicos.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Encordoamento Para Violão .011 Phosphor Bronze AGS200XL Aria Guitars",
+            "Código": "83307",
+            "Preço": "R$ 27,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83307/500/1.jpg",
+            "Descrição": "O Encordoamento Para Violão .011 Phosphor Bronze AGS200XL da Aria Guitars é um modelo em Bronze Fosforoso, fabricadas a partir de uma liga de cobre com 5% de estanho e um notável teor de fósforo de até 1%.  \n\nReconhecida por seu timbre rico e suave, a Encordoamento Para Violão Extra Leve .011 AGS200XL proporcionam uma vibração consistentemente suave e um equilíbrio impecável, garantindo que os músicos encontrem a tensão ideal para suas necessidades de tocabilidade.",
             "Imagens adicionais": []
         }
     ]
