@@ -115,14 +115,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Eletroacústico Yamaha Storia 3 Aço",
-            "Código": "85295",
-            "Preço": "R$ 2.850,19",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/85295/500/1.jpg",
-            "Descrição": "O Violão Eletroacústico Yamaha Storia 3",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Eletroacústico Yamaha Storia 1 Aço",
             "Código": "85293",
             "Preço": "R$ 2.850,19",
@@ -155,18 +147,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Giannini Roadman Nylon Eletroacústico GRMN Sunburst",
-            "Código": "85788",
-            "Preço": "R$ 1.909,14",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/85788/500/1.jpg",
-            "Descrição": "Um violão que pode ser levado para qualquer lugar. Literalmente! O Giannini Roadman é bastante diferente do que estamos acostumados: suas laterais desmontáveis de Sapele/Poplar permitem que você o transporte sem preocupações com espaço – basta destacar as duas peças do corpo e acomodá-las na bag que acompanha o instrumento.\n\nO pré-amplificador GT-100 é a chave para que os ensaios aconteçam onde quer que você esteja: possui sistema Bluetooth, saída para fones de ouvido, efeitos de Chorus e Delay, entrada auxiliar e afinador cromático.\n\nE sua configuração única, que preserva sonoridade e formato clássicos, garante não somente portabilidade, mas também conforto e leveza. Seu conceito sobre violões certamente vai mudar… Para melhor! Com cordas de nylon; disponível nas cores Natural (N), Black (BK) e Three Tone Sunburst (3TS).",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Giannini Roadman Nylon Eletroacústico GRMN Black",
             "Código": "85789",
             "Preço": "R$ 1.909,14",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/85789/500/1.jpg",
+            "Descrição": "Um violão que pode ser levado para qualquer lugar. Literalmente! O Giannini Roadman é bastante diferente do que estamos acostumados: suas laterais desmontáveis de Sapele/Poplar permitem que você o transporte sem preocupações com espaço – basta destacar as duas peças do corpo e acomodá-las na bag que acompanha o instrumento.\n\nO pré-amplificador GT-100 é a chave para que os ensaios aconteçam onde quer que você esteja: possui sistema Bluetooth, saída para fones de ouvido, efeitos de Chorus e Delay, entrada auxiliar e afinador cromático.\n\nE sua configuração única, que preserva sonoridade e formato clássicos, garante não somente portabilidade, mas também conforto e leveza. Seu conceito sobre violões certamente vai mudar… Para melhor! Com cordas de nylon; disponível nas cores Natural (N), Black (BK) e Three Tone Sunburst (3TS).",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Giannini Roadman Nylon Eletroacústico GRMN Sunburst",
+            "Código": "85788",
+            "Preço": "R$ 1.909,14",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/85788/500/1.jpg",
             "Descrição": "Um violão que pode ser levado para qualquer lugar. Literalmente! O Giannini Roadman é bastante diferente do que estamos acostumados: suas laterais desmontáveis de Sapele/Poplar permitem que você o transporte sem preocupações com espaço – basta destacar as duas peças do corpo e acomodá-las na bag que acompanha o instrumento.\n\nO pré-amplificador GT-100 é a chave para que os ensaios aconteçam onde quer que você esteja: possui sistema Bluetooth, saída para fones de ouvido, efeitos de Chorus e Delay, entrada auxiliar e afinador cromático.\n\nE sua configuração única, que preserva sonoridade e formato clássicos, garante não somente portabilidade, mas também conforto e leveza. Seu conceito sobre violões certamente vai mudar… Para melhor! Com cordas de nylon; disponível nas cores Natural (N), Black (BK) e Three Tone Sunburst (3TS).",
             "Imagens adicionais": []
         },
@@ -227,6 +219,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Giannini Perform GDR Plus Eletroacústico Aço Natural Glossy",
+            "Código": "80771",
+            "Preço": "R$ 937,07",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80771/500/1.jpg",
+            "Descrição": "O Violão Giannini Perform GDR Plus é um modelo que possui um corpo do tipo Dreadnought, o que significa que possui uma caixa de ressonância mais ampla e arredondada, proporcionando um som mais encorpado e potente. Além disso, é um violão full eletroacústico, ou seja, possui um sistema de captação de som embutido que permite conectá-lo a amplificadores e sistemas de som para amplificar o som do instrumento.\n\nConstituído com tampo em Spruce, que oferece versatilidade tonal e som brilhante, além de ser bastante durável e resistente. O GDR Plus possui ainda fundo e faixa em Sapele e acabamento em glossy que confere um visual elegante e sofisticado ao instrumento. Além disso, o violão Giannini Perform GDR Plus é uma excelente escolha para músicos que buscam um instrumento versátil e de alta qualidade sonora, tanto para apresentações ao vivo quanto para gravações em estúdio.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Giannini Perform GSS Plus Eletroacústico Aço Vintage Sunburst",
             "Código": "80767",
             "Preço": "R$ 937,07",
@@ -240,14 +240,6 @@
             "Preço": "R$ 937,07",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/80769/500/1.jpg",
             "Descrição": "O Violão Giannini Perform GAD Plus é um modelo que possui um corpo no estilo Grand Auditorium, também conhecido como Orchestra, que oferece um equilíbrio tonal entre agudos, médios e graves.\n\nConstituído com tampo em madeira maciça de Spruce, o que proporciona um som mais vibrante e ressonante. O GAD Plus possui sistema de captação ativo, permitindo que seja amplificado em apresentações ao vivo ou em gravações de estúdio. Por outro lado, o acabamento natural glossy proporciona ao instrumento uma aparência elegante e sofisticada. Além disso, o violão Giannini Perform GAD Plus é uma excelente escolha para músicos que buscam um instrumento versátil e de alta qualidade sonora, tanto para apresentações ao vivo quanto para gravações em estúdio.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Giannini Perform GDR Plus Eletroacústico Aço Natural Glossy",
-            "Código": "80771",
-            "Preço": "R$ 937,07",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80771/500/1.jpg",
-            "Descrição": "O Violão Giannini Perform GDR Plus é um modelo que possui um corpo do tipo Dreadnought, o que significa que possui uma caixa de ressonância mais ampla e arredondada, proporcionando um som mais encorpado e potente. Além disso, é um violão full eletroacústico, ou seja, possui um sistema de captação de som embutido que permite conectá-lo a amplificadores e sistemas de som para amplificar o som do instrumento.\n\nConstituído com tampo em Spruce, que oferece versatilidade tonal e som brilhante, além de ser bastante durável e resistente. O GDR Plus possui ainda fundo e faixa em Sapele e acabamento em glossy que confere um visual elegante e sofisticado ao instrumento. Além disso, o violão Giannini Perform GDR Plus é uma excelente escolha para músicos que buscam um instrumento versátil e de alta qualidade sonora, tanto para apresentações ao vivo quanto para gravações em estúdio.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
         {
@@ -315,30 +307,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Tagima Andes Folk Eletroacústico Aço Candy Apple Satin",
-            "Código": "82797",
-            "Preço": "R$ 891,82",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82797/500/1.jpg",
-            "Descrição": "O Violão Tagima Andes da linha Latin America, é uma celebração da rica cultura latino-americana com um toque inovador e cores vibrantes, oferecendo um excepcional custo/benefício. O modelo Andes da Tagima é projetado para atender a diversos estilos musicais, apresentando o formato Folk Dreadnought com Cutaway para uma versatilidade sonora incomparável.\n\nConstruído com cuidado e precisão, o violão possui tampo em Spruce, proporcionando uma sonoridade equilibrada e envolvente. As laterais e o fundo em Agathis complementam a qualidade tonal, enquanto o braço em Okume com shape em C oferece conforto e facilidade de execução. Já a escala em Tech Wood com 25.5\" de comprimento contribui para uma tocabilidade suave e responsiva. Seja para um músico iniciante ou experiente, o Violão Tagima Andes é a escolha ideal para expressar sua musicalidade em grande estilo.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Natural Amber Satin",
-            "Código": "82103",
-            "Preço": "R$ 891,82",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82103/500/1.jpg",
-            "Descrição": "O Violão Tagima Andes faz parte da Linha Latin America, apresentando um visual inovador que se destaca pela presença de cores vibrantes e um irresistível custo/benefício. Este modelo da Tagima é projetado para atender às demandas musicais de diversos estilos, tornando-se a escolha ideal para os apaixonados por música.\n\nCom seu formato Folk Dreadnought com Cutaway, o Violão Tagima Andes entrega versatilidade sonora incomparável dentro da linha. Essa combinação de características proporciona não apenas um design elegante, mas também a amplitude e profundidade sonora desejada por músicos exigentes. Seja para performances acústicas intimistas ou para tocar em grandes palcos, o Tagima Andes se destaca, oferecendo o equilíbrio perfeito entre estética, funcionalidade e qualidade sonora.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Tagima Andes Folk Eletroacústico Aço Lake Placid Blue Satin",
-            "Código": "82796",
-            "Preço": "R$ 891,82",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82796/500/1.jpg",
-            "Descrição": "O Violão Tagima Andes da linha Latin America, é uma celebração da rica cultura latino-americana com um toque inovador e cores vibrantes, oferecendo um excepcional custo/benefício. O modelo Andes da Tagima é projetado para atender a diversos estilos musicais, apresentando o formato Folk Dreadnought com Cutaway para uma versatilidade sonora incomparável.\n\nConstruído com cuidado e precisão, o violão possui tampo em Spruce, proporcionando uma sonoridade equilibrada e envolvente. As laterais e o fundo em Agathis complementam a qualidade tonal, enquanto o braço em Okume com shape em C oferece conforto e facilidade de execução. Já a escala em Tech Wood com 25.5\" de comprimento contribui para uma tocabilidade suave e responsiva. Seja para um músico iniciante ou experiente, o Violão Tagima Andes é a escolha ideal para expressar sua musicalidade em grande estilo.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Black Satin",
             "Código": "82633",
             "Preço": "R$ 891,82",
@@ -352,6 +320,30 @@
             "Preço": "R$ 891,82",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83085/500/1.jpg",
             "Descrição": "O Violão Tagima Andes, é um modelo excepcional que faz parte da Linha Latin América, sendo essa uma expressão da rica cultura latino-americana. Destacando-se não apenas por seu visual inovador, mas também pelo excepcional custo-benefício que oferece, este modelo ainda conta com cores vibrantes, que chama a atenção.\n\nO modelo Andes da Tagima é uma escolha ideal para músicos de todos os estilos, buscando um violão que atenda às demandas variadas da performance musical. Seu design segue o formato Folk Dreadnought com Cutaway, proporcionando não apenas um visual estilizado, mas também uma versatilidade sonora incomparável dentro da linha. Essa construção permite explorar uma ampla gama de estilos musicais, garantindo uma experiência musical rica e envolvente para os músicos mais exigentes.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima Andes Folk Eletroacústico Aço Candy Apple Satin",
+            "Código": "82797",
+            "Preço": "R$ 891,82",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82797/500/1.jpg",
+            "Descrição": "O Violão Tagima Andes da linha Latin America, é uma celebração da rica cultura latino-americana com um toque inovador e cores vibrantes, oferecendo um excepcional custo/benefício. O modelo Andes da Tagima é projetado para atender a diversos estilos musicais, apresentando o formato Folk Dreadnought com Cutaway para uma versatilidade sonora incomparável.\n\nConstruído com cuidado e precisão, o violão possui tampo em Spruce, proporcionando uma sonoridade equilibrada e envolvente. As laterais e o fundo em Agathis complementam a qualidade tonal, enquanto o braço em Okume com shape em C oferece conforto e facilidade de execução. Já a escala em Tech Wood com 25.5\" de comprimento contribui para uma tocabilidade suave e responsiva. Seja para um músico iniciante ou experiente, o Violão Tagima Andes é a escolha ideal para expressar sua musicalidade em grande estilo.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima Andes Folk Eletroacústico Aço Lake Placid Blue Satin",
+            "Código": "82796",
+            "Preço": "R$ 891,82",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82796/500/1.jpg",
+            "Descrição": "O Violão Tagima Andes da linha Latin America, é uma celebração da rica cultura latino-americana com um toque inovador e cores vibrantes, oferecendo um excepcional custo/benefício. O modelo Andes da Tagima é projetado para atender a diversos estilos musicais, apresentando o formato Folk Dreadnought com Cutaway para uma versatilidade sonora incomparável.\n\nConstruído com cuidado e precisão, o violão possui tampo em Spruce, proporcionando uma sonoridade equilibrada e envolvente. As laterais e o fundo em Agathis complementam a qualidade tonal, enquanto o braço em Okume com shape em C oferece conforto e facilidade de execução. Já a escala em Tech Wood com 25.5\" de comprimento contribui para uma tocabilidade suave e responsiva. Seja para um músico iniciante ou experiente, o Violão Tagima Andes é a escolha ideal para expressar sua musicalidade em grande estilo.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Natural Amber Satin",
+            "Código": "82103",
+            "Preço": "R$ 891,82",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82103/500/1.jpg",
+            "Descrição": "O Violão Tagima Andes faz parte da Linha Latin America, apresentando um visual inovador que se destaca pela presença de cores vibrantes e um irresistível custo/benefício. Este modelo da Tagima é projetado para atender às demandas musicais de diversos estilos, tornando-se a escolha ideal para os apaixonados por música.\n\nCom seu formato Folk Dreadnought com Cutaway, o Violão Tagima Andes entrega versatilidade sonora incomparável dentro da linha. Essa combinação de características proporciona não apenas um design elegante, mas também a amplitude e profundidade sonora desejada por músicos exigentes. Seja para performances acústicas intimistas ou para tocar em grandes palcos, o Tagima Andes se destaca, oferecendo o equilíbrio perfeito entre estética, funcionalidade e qualidade sonora.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
@@ -551,14 +543,6 @@
             "Código": "64968",
             "Preço": "R$ 688,33",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/64968/500/1.jpg",
-            "Descrição": "O Violão Giannini GD1 EQ é um ótimo modelo para quem busca um folk dreadnought com ótima sonoridade e acabamento impecável. Possuindo tarraxas que sustentam a afinação e os trastes que garantem a precisão das notas. Este instrumento oferece praticidade e leveza aliados a uma sonoridade encorpada.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Giannini GD1 EQ Eletroacústico Dreadnought Translucent Dark Wine",
-            "Código": "64969",
-            "Preço": "R$ 688,33",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/64969/500/1.jpg",
             "Descrição": "O Violão Giannini GD1 EQ é um ótimo modelo para quem busca um folk dreadnought com ótima sonoridade e acabamento impecável. Possuindo tarraxas que sustentam a afinação e os trastes que garantem a precisão das notas. Este instrumento oferece praticidade e leveza aliados a uma sonoridade encorpada.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
