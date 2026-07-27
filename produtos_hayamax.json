@@ -191,7 +191,7 @@
             "Código": "81005",
             "Preço": "R$ 1.889,69",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/81005/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "O Violão Strinberg SD301HCR é um modelo de alta qualidade que oferece um som poderoso e equilibrado. Com um corpo em formato de Folk Half Cutaway com Arm Rest, ele apresenta uma caixa de ressonância grande, o que garante uma sonoridade mais encorpada e com graves mais presentes.\n\nO acabamento em Natural Satin dá um toque de elegância ao instrumento, permitindo que as nuances da madeira possam ser apreciadas. Além disso, a construção em Sapele e Spruce, duas madeiras de qualidade, garante uma sonoridade quente e equilibrada, com uma resposta sonora rápida e precisa.\n\nO SD301HCR também possui um sistema de captação ativo, o que permite que o violão seja conectado a um amplificador ou mesa de som. O equalizador de 3 bandas, presente no pré-amplificador, possibilita ajustes, permitindo obter uma sonoridade mais personalizada.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
             "Imagens adicionais": []
         },
         {
@@ -235,6 +235,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Giannini Perform GSS Plus Eletroacústico Aço Vintage Sunburst",
+            "Código": "80767",
+            "Preço": "R$ 937,07",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80767/500/1.jpg",
+            "Descrição": "O Violão Giannini Perform GSS Plus é um modelo de violão com corpo em formato Dreadnought, ou seja, possui um formato que combina elementos do tradicional Dreadnought com o corpo mais arredondado dos violões com formato de ombro inclinado.\n\nConstruído em madeira de alta qualidade como tampo em Spruce e fundo e faixa em Sapele, o que proporciona um som brilhante e ressonante, com boa projeção e definição. Com acabamento Verniz brilhante que transmite visual elegante e sofisticado ao instrumento. Além disso, o violão Giannini Perform GSS Plus é um modelo versátil, indicado para diversos estilos musicais, como folk, country, blues, rock e pop. É um modelo de qualidade, com boa projeção sonora e acabamento elegante, ideal tanto para músicos iniciantes quanto para profissionais.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Giannini Perform GDR Plus Eletroacústico Aço Natural Glossy",
             "Código": "80771",
             "Preço": "R$ 937,07",
@@ -248,14 +256,6 @@
             "Preço": "R$ 937,07",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/80769/500/1.jpg",
             "Descrição": "O Violão Giannini Perform GAD Plus é um modelo que possui um corpo no estilo Grand Auditorium, também conhecido como Orchestra, que oferece um equilíbrio tonal entre agudos, médios e graves.\n\nConstituído com tampo em madeira maciça de Spruce, o que proporciona um som mais vibrante e ressonante. O GAD Plus possui sistema de captação ativo, permitindo que seja amplificado em apresentações ao vivo ou em gravações de estúdio. Por outro lado, o acabamento natural glossy proporciona ao instrumento uma aparência elegante e sofisticada. Além disso, o violão Giannini Perform GAD Plus é uma excelente escolha para músicos que buscam um instrumento versátil e de alta qualidade sonora, tanto para apresentações ao vivo quanto para gravações em estúdio.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Giannini Perform GSS Plus Eletroacústico Aço Vintage Sunburst",
-            "Código": "80767",
-            "Preço": "R$ 937,07",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80767/500/1.jpg",
-            "Descrição": "O Violão Giannini Perform GSS Plus é um modelo de violão com corpo em formato Dreadnought, ou seja, possui um formato que combina elementos do tradicional Dreadnought com o corpo mais arredondado dos violões com formato de ombro inclinado.\n\nConstruído em madeira de alta qualidade como tampo em Spruce e fundo e faixa em Sapele, o que proporciona um som brilhante e ressonante, com boa projeção e definição. Com acabamento Verniz brilhante que transmite visual elegante e sofisticado ao instrumento. Além disso, o violão Giannini Perform GSS Plus é um modelo versátil, indicado para diversos estilos musicais, como folk, country, blues, rock e pop. É um modelo de qualidade, com boa projeção sonora e acabamento elegante, ideal tanto para músicos iniciantes quanto para profissionais.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
         {
@@ -275,18 +275,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Tobacco Satin",
-            "Código": "70632",
+            "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Mogno Satin",
+            "Código": "70629",
             "Preço": "R$ 912,55",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70632/500/1.jpg",
-            "Descrição": "O Violão Strinberg SD200C é um instrumento musical excepcional, feito com padrão de qualidade Strinberg, com essencia brasileira.\nPossuindo tampo em Spruce/Sapele, lateral e fundo em Sapele laminado o que proporcionará a você um tom brilhante e com agudos limpos, contando ainda com captação SE-50 e madeira de excelente qualidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Smoked Satin",
-            "Código": "70631",
-            "Preço": "R$ 912,55",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70631/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70629/500/1.jpg",
             "Descrição": "O Violão Strinberg SD200C é um instrumento musical excepcional, feito com padrão de qualidade Strinberg, com essencia brasileira.\nPossuindo tampo em Spruce/Sapele, lateral e fundo em Sapele laminado o que proporcionará a você um tom brilhante e com agudos limpos, contando ainda com captação SE-50 e madeira de excelente qualidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
             "Imagens adicionais": []
         },
@@ -299,10 +291,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Mogno Satin",
-            "Código": "70629",
+            "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Smoked Satin",
+            "Código": "70631",
             "Preço": "R$ 912,55",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70629/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70631/500/1.jpg",
+            "Descrição": "O Violão Strinberg SD200C é um instrumento musical excepcional, feito com padrão de qualidade Strinberg, com essencia brasileira.\nPossuindo tampo em Spruce/Sapele, lateral e fundo em Sapele laminado o que proporcionará a você um tom brilhante e com agudos limpos, contando ainda com captação SE-50 e madeira de excelente qualidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Tobacco Satin",
+            "Código": "70632",
+            "Preço": "R$ 912,55",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70632/500/1.jpg",
             "Descrição": "O Violão Strinberg SD200C é um instrumento musical excepcional, feito com padrão de qualidade Strinberg, com essencia brasileira.\nPossuindo tampo em Spruce/Sapele, lateral e fundo em Sapele laminado o que proporcionará a você um tom brilhante e com agudos limpos, contando ainda com captação SE-50 e madeira de excelente qualidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
             "Imagens adicionais": []
         },
@@ -312,14 +312,6 @@
             "Preço": "R$ 907,80",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/70638/500/1.jpg",
             "Descrição": "O Violão Strinberg SA200C é um instrumento musical excepcional, que combina qualidade, estética e excelente custo-benefício.\nPossuindo tampo em Spruce laminado, lateral e fundo em Sapele laminado o que proporcionará a você um tom brilhante e com agudos limpos, contando ainda com captação SE-50 e madeira de excelente qualidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Natural Amber Satin",
-            "Código": "82103",
-            "Preço": "R$ 891,82",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82103/500/1.jpg",
-            "Descrição": "O Violão Tagima Andes faz parte da Linha Latin America, apresentando um visual inovador que se destaca pela presença de cores vibrantes e um irresistível custo/benefício. Este modelo da Tagima é projetado para atender às demandas musicais de diversos estilos, tornando-se a escolha ideal para os apaixonados por música.\n\nCom seu formato Folk Dreadnought com Cutaway, o Violão Tagima Andes entrega versatilidade sonora incomparável dentro da linha. Essa combinação de características proporciona não apenas um design elegante, mas também a amplitude e profundidade sonora desejada por músicos exigentes. Seja para performances acústicas intimistas ou para tocar em grandes palcos, o Tagima Andes se destaca, oferecendo o equilíbrio perfeito entre estética, funcionalidade e qualidade sonora.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
@@ -339,6 +331,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Natural Amber Satin",
+            "Código": "82103",
+            "Preço": "R$ 891,82",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82103/500/1.jpg",
+            "Descrição": "O Violão Tagima Andes faz parte da Linha Latin America, apresentando um visual inovador que se destaca pela presença de cores vibrantes e um irresistível custo/benefício. Este modelo da Tagima é projetado para atender às demandas musicais de diversos estilos, tornando-se a escolha ideal para os apaixonados por música.\n\nCom seu formato Folk Dreadnought com Cutaway, o Violão Tagima Andes entrega versatilidade sonora incomparável dentro da linha. Essa combinação de características proporciona não apenas um design elegante, mas também a amplitude e profundidade sonora desejada por músicos exigentes. Seja para performances acústicas intimistas ou para tocar em grandes palcos, o Tagima Andes se destaca, oferecendo o equilíbrio perfeito entre estética, funcionalidade e qualidade sonora.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Tagima Cartagena Eletroacústico Nylon Natural Satin",
             "Código": "82798",
             "Preço": "R$ 888,56",
@@ -355,19 +355,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Eletroacústico Strinberg SF200C Aço Mogno Satin",
-            "Código": "70692",
-            "Preço": "R$ 884,83",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70692/500/1.jpg",
-            "Descrição": "O Violão Eletroacústico Strinberg SF200C é um excelente modelo para quem busca um instrumento musical com design moderno, excelente qualidade e ótimo custo-benefício.\nConstituído com corpo no estilo flat, tampo em Sapele e encordoamento de aço, o que proporcionará para você ótima tocabilidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Eletroacústico Strinberg Sf200c Aço Natural Satin",
             "Código": "70693",
             "Preço": "R$ 884,83",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/70693/500/1.jpg",
             "Descrição": "O Violão Eletroacústico Strinberg Sf200c é um excelente modelo para quem busca um instrumento musical com design moderno, excelente qualidade e ótimo custo-benefício.\nConstituído com corpo no estilo flat, com tampo em Sapele e encordoamento de aço, o que proporcionará para você ótima tocabilidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Eletroacústico Strinberg SF200C Aço Mogno Satin",
+            "Código": "70692",
+            "Preço": "R$ 884,83",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/70692/500/1.jpg",
+            "Descrição": "O Violão Eletroacústico Strinberg SF200C é um excelente modelo para quem busca um instrumento musical com design moderno, excelente qualidade e ótimo custo-benefício.\nConstituído com corpo no estilo flat, tampo em Sapele e encordoamento de aço, o que proporcionará para você ótima tocabilidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
             "Imagens adicionais": []
         },
         {
@@ -403,14 +403,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Strinberg FS4D Forest Folk Aço Eletroacústico Tobacco",
-            "Código": "74213",
-            "Preço": "R$ 838,08",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/74213/500/1.jpg",
-            "Descrição": "O Violão Strinberg FS4D Forest é um instrumento criado especialmente para músicos que buscam sonoridade equilibrada e excelente custo-benefício.\nConstituído com corpo no estilo folk, encordoamento de aço e pré-amplificador SE-50, este modelo possui pegada confortável e visual diferenciado.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Strinberg FS4D Forest Folk Aço Eletroacústico Mogno Color",
             "Código": "74214",
             "Preço": "R$ 838,08",
@@ -419,19 +411,19 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Strinberg FS4D Forest Folk Aço Eletroacústico Tobacco",
+            "Código": "74213",
+            "Preço": "R$ 838,08",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/74213/500/1.jpg",
+            "Descrição": "O Violão Strinberg FS4D Forest é um instrumento criado especialmente para músicos que buscam sonoridade equilibrada e excelente custo-benefício.\nConstituído com corpo no estilo folk, encordoamento de aço e pré-amplificador SE-50, este modelo possui pegada confortável e visual diferenciado.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Tagima Kansas Gran Reserva Eletroacústico Dark Mahogany Open Pore",
             "Código": "84771",
             "Preço": "R$ 829,38",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/84771/500/1.jpg",
             "Descrição": "O Violão Tagima Kansas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nA sua estética conta com detalhes de roseta e logo da marca em um vibrante tom de laranja, conferindo uma dose adicional de modernidade a essa linha de violões. O Violão Tagima Kansas Gran Reserva é uma escolha que harmoniza tradição e inovação, oferecendo aos músicos uma qualidade sonora excepcional e uma aparência contemporânea que combina perfeitamente com a sua reputação estabelecida.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Strinberg FS1A Aço Eletroacústico Mogno Color Satin",
-            "Código": "74207",
-            "Preço": "R$ 814,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/74207/500/1.jpg",
-            "Descrição": "O Violão Strinberg FS1A é um modelo excepcional, constituído em Sapele com madeiramento de alta qualidade.\nEste modelo é ideal para músicos exigentes que buscam um instrumento musical com design moderno, timbres bem cheios e de destaque.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
             "Imagens adicionais": []
         },
         {
@@ -451,27 +443,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Mini Tagima Porteño Eletroacústico Aço Metallic Silver",
-            "Código": "82793",
-            "Preço": "R$ 803,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82793/500/1.jpg",
-            "Descrição": "O Violão Mini Tagima Porteño faz parte da linha Latin América, que é uma celebração da cultura latino-americana, unindo um visual inovador a um excepcional custo/benefício. Este modelo se destaca na coleção com seu design moderno e tamanho mini (menor se comparado aos demais modelos da linha), trazendo um toque contemporâneo aos tradicionais shapes da linha.\n\nConstruído no formato GS Mini Non-Cutaway, o Porteño oferece uma experiência sonora única, proporcionando graves robustos em uma estrutura compacta. Seu tampo em Spruce e o corpo em Agathis garantem uma qualidade tonal excepcional. O braço em Okume com formato em C e a escala em Tech Wood de 23.5\" complementam a experiência de tocar, tornando o Violão Tagima Porteño uma escolha envolvente para músicos que buscam estilo, inovação e desempenho sonoro.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Black Satin",
-            "Código": "82633",
-            "Preço": "R$ 803,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82633/500/1.jpg",
-            "Descrição": "O Violão Tagima Andes faz parte da vibrante Linha Latin América, é uma celebração da cultura latino-americana que combina cores vibrantes com um excepcional custo-benefício. Este violão é ideal para músicos de todos os estilos musicais que desejam um instrumento versátil e de alta qualidade.\n\nCom seu design no formato Folk Dreadnought com Cutaway, o Tagima Andes oferece uma versatilidade sonora excepcional. Seja para músicos profissionais ou iniciantes, este violão se destaca como uma escolha premium que combina tradição, inovação e qualidade, tornando-o uma adição notável à icônica família Tagima.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Tagima Rio Negro Eletroacústico Aço Metallic Silver",
             "Código": "83083",
             "Preço": "R$ 803,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83083/500/1.jpg",
             "Descrição": "O Violão Tagima Rio Negro é um modelo que une a qualidade com um visual vibrante com custo acessível. Este modelo eletroacústico Grand Auditorium Cutaway em aço, é construído com precisão e paixão. Com corpo no formato Grand Auditorium, este modelo oferece sonoridade equilibrada e rica, com graves consistentes e agudos claros.\n\nO tampo em Spruce proporciona uma ressonância brilhante e articulada, enquanto as laterais e o fundo em Agathis contribuem para uma resposta sonora quente e encorpada. O braço em Okume, com um confortável shape em C, oferece uma tocabilidade suave e ágil, permitindo horas de prazer musical sem fadiga.\n\nCom uma escala em Tech Wood e uma extensão de 25.5\", este violão garante uma experiência de tocabilidade confortável e consistente em toda a sua extensão. Além disso, sua eletrônica confiável permite que você o conecte a amplificadores ou sistemas de som, levando sua música a novos patamares de alcance e expressão.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Mini Tagima Porteño Eletroacústico Aço Metallic Silver",
+            "Código": "82793",
+            "Preço": "R$ 803,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82793/500/1.jpg",
+            "Descrição": "O Violão Mini Tagima Porteño faz parte da linha Latin América, que é uma celebração da cultura latino-americana, unindo um visual inovador a um excepcional custo/benefício. Este modelo se destaca na coleção com seu design moderno e tamanho mini (menor se comparado aos demais modelos da linha), trazendo um toque contemporâneo aos tradicionais shapes da linha.\n\nConstruído no formato GS Mini Non-Cutaway, o Porteño oferece uma experiência sonora única, proporcionando graves robustos em uma estrutura compacta. Seu tampo em Spruce e o corpo em Agathis garantem uma qualidade tonal excepcional. O braço em Okume com formato em C e a escala em Tech Wood de 23.5\" complementam a experiência de tocar, tornando o Violão Tagima Porteño uma escolha envolvente para músicos que buscam estilo, inovação e desempenho sonoro.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
@@ -483,6 +467,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Black Satin",
+            "Código": "82633",
+            "Preço": "R$ 803,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82633/500/1.jpg",
+            "Descrição": "O Violão Tagima Andes faz parte da vibrante Linha Latin América, é uma celebração da cultura latino-americana que combina cores vibrantes com um excepcional custo-benefício. Este violão é ideal para músicos de todos os estilos musicais que desejam um instrumento versátil e de alta qualidade.\n\nCom seu design no formato Folk Dreadnought com Cutaway, o Tagima Andes oferece uma versatilidade sonora excepcional. Seja para músicos profissionais ou iniciantes, este violão se destaca como uma escolha premium que combina tradição, inovação e qualidade, tornando-o uma adição notável à icônica família Tagima.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Giannini GSF3 CEQ Eletroacústico Aço Translucent Dark Wine Dark",
             "Código": "63736",
             "Preço": "R$ 786,22",
@@ -491,10 +483,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Giannini GF1D CEQ Eletroacústico Aço 3 Tone Sunburst",
-            "Código": "63246",
+            "Nome": "Violão Giannini GF1D CEQ Eletroacústico Aço Satin Black",
+            "Código": "63566",
             "Preço": "R$ 766,91",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/63246/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/63566/500/1.jpg",
             "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
@@ -507,10 +499,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Giannini GF1D CEQ Eletroacústico Aço Satin Black",
-            "Código": "63566",
+            "Nome": "Violão Giannini GF1D CEQ Eletroacústico Aço 3 Tone Sunburst",
+            "Código": "63246",
             "Preço": "R$ 766,91",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/63566/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/63246/500/1.jpg",
             "Descrição": "O Violão Giannini GF1D CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GF1D é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
@@ -531,18 +523,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Giannini GSF1D Mini Jumbo Aço Mini Jumbo Natural Satin",
-            "Código": "65709",
-            "Preço": "R$ 719,47",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/65709/500/1.jpg",
-            "Descrição": "O Violão Giannini GSF1D é perfeito para quem possui mãos pequenas e deseja praticar o uso de instrumentos musicais.\n\nEste modelo possui um braço mais fino, o que proporciona a você mais conforto, além de não perder a sonoridade que só a Giannini traz para você.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Giannini GSF1D Mini Jumbo Aço Mini Jumbo Natural Glossy",
             "Código": "65708",
             "Preço": "R$ 719,47",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/65708/500/1.jpg",
+            "Descrição": "O Violão Giannini GSF1D é perfeito para quem possui mãos pequenas e deseja praticar o uso de instrumentos musicais.\n\nEste modelo possui um braço mais fino, o que proporciona a você mais conforto, além de não perder a sonoridade que só a Giannini traz para você.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Giannini GSF1D Mini Jumbo Aço Mini Jumbo Natural Satin",
+            "Código": "65709",
+            "Preço": "R$ 719,47",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/65709/500/1.jpg",
             "Descrição": "O Violão Giannini GSF1D é perfeito para quem possui mãos pequenas e deseja praticar o uso de instrumentos musicais.\n\nEste modelo possui um braço mais fino, o que proporciona a você mais conforto, além de não perder a sonoridade que só a Giannini traz para você.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
@@ -552,6 +544,14 @@
             "Preço": "R$ 714,07",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/64816/500/1.jpg",
             "Descrição": "O Violão Giannini GDC1 CEQ é um modelo excepcional, fabricado especialmente para iniciantes e profissionais, se diferenciando pelo seu acabamento, volume e boa pegada.\n\nAlém disso, o GDC1 é um ótimo instrumento para quem procura um violão modelo Folk com uma sonoridade de qualidade e ótimo acabamento, e claro, um bom preço.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Giannini GD1 EQ Eletroacústico Dreadnought 3 Tone Sunburst",
+            "Código": "64968",
+            "Preço": "R$ 688,33",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/64968/500/1.jpg",
+            "Descrição": "O Violão Giannini GD1 EQ é um ótimo modelo para quem busca um folk dreadnought com ótima sonoridade e acabamento impecável. Possuindo tarraxas que sustentam a afinação e os trastes que garantem a precisão das notas. Este instrumento oferece praticidade e leveza aliados a uma sonoridade encorpada.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
         {
@@ -568,22 +568,6 @@
             "Preço": "R$ 688,33",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/64971/500/1.jpg",
             "Descrição": "O Violão Giannini GD1 EQ é um ótimo modelo para quem busca um violão folk dreadnought com ótima sonoridade e acabamento impecável.\n\nPossuindo tarraxas que sustentam a afinação e os trastes que garantem a precisão das notas. Este instrumento oferece praticidade e leveza aliados a uma sonoridade encorpada.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Giannini GD1 EQ Eletroacústico Dreadnought Translucent Dark Wine",
-            "Código": "64969",
-            "Preço": "R$ 688,33",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/64969/500/1.jpg",
-            "Descrição": "O Violão Giannini GD1 EQ é um ótimo modelo para quem busca um folk dreadnought com ótima sonoridade e acabamento impecável. Possuindo tarraxas que sustentam a afinação e os trastes que garantem a precisão das notas. Este instrumento oferece praticidade e leveza aliados a uma sonoridade encorpada.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Giannini GD1 EQ Eletroacústico Dreadnought 3 Tone Sunburst",
-            "Código": "64968",
-            "Preço": "R$ 688,33",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/64968/500/1.jpg",
-            "Descrição": "O Violão Giannini GD1 EQ é um ótimo modelo para quem busca um folk dreadnought com ótima sonoridade e acabamento impecável. Possuindo tarraxas que sustentam a afinação e os trastes que garantem a precisão das notas. Este instrumento oferece praticidade e leveza aliados a uma sonoridade encorpada.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
         {
@@ -667,18 +651,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Giannini S14 Acústico Aço Acústico Preto",
-            "Código": "50570",
-            "Preço": "R$ 365,63",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/50570/500/1.jpg",
-            "Descrição": "O Violão Giannini S14 é um modelo de violão leve, confortável e de boa qualidade, ideal para quem quer aprender a tocar já com um instrumento de cordas de aço.\n\nO S-14 foi produzido pela Giannini pensando no músico iniciante, um violão preparado para dar todo o suporte ao aprendizado de violão.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Giannini S14 Acústico Aço Acústico Natural",
             "Código": "50574",
             "Preço": "R$ 365,63",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/50574/500/1.jpg",
+            "Descrição": "O Violão Giannini S14 é um modelo de violão leve, confortável e de boa qualidade, ideal para quem quer aprender a tocar já com um instrumento de cordas de aço.\n\nO S-14 foi produzido pela Giannini pensando no músico iniciante, um violão preparado para dar todo o suporte ao aprendizado de violão.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Giannini S14 Acústico Aço Acústico Preto",
+            "Código": "50570",
+            "Preço": "R$ 365,63",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/50570/500/1.jpg",
             "Descrição": "O Violão Giannini S14 é um modelo de violão leve, confortável e de boa qualidade, ideal para quem quer aprender a tocar já com um instrumento de cordas de aço.\n\nO S-14 foi produzido pela Giannini pensando no músico iniciante, um violão preparado para dar todo o suporte ao aprendizado de violão.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
@@ -1345,7 +1329,7 @@
             "Código": "83309",
             "Preço": "R$ 47,93",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83309/500/1.jpg",
-            "Descrição": "O Encordoamento Para Violão Coated .010 Phosphor Bronze AGS200CXL da Aria Guitars é um modelo que conta com C.R.T. (Tratamento Resistente à Corrosão), um processo que protege as superfícies metálicas do contato com oxigênio e umidade. Ao combinar esse processo com os melhores materiais, trefilação precisa e revestimento, cada conjunto da série AGS C mantém o tom familiar das cordas sem revestimento, ao mesmo tempo que prolonga sua durabilidade. \n\nProporcionando vibrações consistentes com maior amplitude, resultando em tons mais nítidos, claros e precisos, o Encordoamento Para Violão Extra Leve Coated .010 AGS200CXL é ideal para músicos que buscam longevidade e qualidade sonora excepcional, as cordas de bronze fosforoso CTA oferecem tudo isso.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
