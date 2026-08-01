@@ -789,18 +789,18 @@
     ],
     "Guitarras": [
         {
-            "Nome": "Guitarra Yamaha Revstar RSS 20 Flash Green",
-            "Código": "80598",
-            "Preço": "R$ 5.628,01",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80598/500/1.jpg",
-            "Descrição": "Marca: YAMAHA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Yamaha Revstar RSS 20 Black Com Bag",
             "Código": "80594",
             "Preço": "R$ 5.628,01",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/80594/500/1.jpg",
+            "Descrição": "Marca: YAMAHA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Yamaha Revstar RSS 20 Flash Green",
+            "Código": "80598",
+            "Preço": "R$ 5.628,01",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80598/500/1.jpg",
             "Descrição": "Marca: YAMAHA",
             "Imagens adicionais": []
         },
@@ -829,14 +829,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II MAC-DLX Stained Brown",
-            "Código": "82296",
-            "Preço": "R$ 2.194,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82296/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II MAC-DLX Stained Black",
             "Código": "82297",
             "Preço": "R$ 2.194,21",
@@ -845,18 +837,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 718-MK2 Brooklyn Open Pore Black",
-            "Código": "82306",
-            "Preço": "R$ 2.057,08",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82306/500/1.jpg",
+            "Nome": "Guitarra Aria Pro II MAC-DLX Stained Brown",
+            "Código": "82296",
+            "Preço": "R$ 2.194,21",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82296/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-590STD Aged Tobacco Sunburst",
-            "Código": "82315",
-            "Preço": "R$ 1.988,51",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82315/500/1.jpg",
+            "Nome": "Guitarra Aria Pro II 718-MK2 Brooklyn Open Pore Black",
+            "Código": "82306",
+            "Preço": "R$ 2.057,08",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82306/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -877,11 +869,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-350PG Aged Lemon Drop",
-            "Código": "79966",
-            "Preço": "R$ 1.919,93",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79966/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II PE-350PG é um modelo excepcional produzido pela prestigiada empresa japonesa de instrumentos musicais, Aria Guitars. Inspirada em design lendários, a Aria PE-350PG possui corpo sólido em Okoume com um topo esculpido em bordo, além de um pescoço em mogno que proporciona excelente estabilidade e ressonância.\n\nEquipada com dois captadores humbucker de alta qualidade, a Aria PE-350PG oferece um som quente, encorpado e rico, que é perfeito para os estilos musicais que vão desde o rock até o blues. Com sua construção sólida e timbre excepcional, essa guitarra é capaz de proporcionar um som único e inesquecível para qualquer tipo de performance musical.",
+            "Nome": "Guitarra Aria Pro II PE-590STD Aged Tobacco Sunburst",
+            "Código": "82315",
+            "Preço": "R$ 1.988,51",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82315/500/1.jpg",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -893,11 +885,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II PE-350CST Aged Black",
-            "Código": "79964",
+            "Nome": "Guitarra Aria Pro II PE-350PG Aged Lemon Drop",
+            "Código": "79966",
             "Preço": "R$ 1.919,93",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79964/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79966/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II PE-350PG é um modelo excepcional produzido pela prestigiada empresa japonesa de instrumentos musicais, Aria Guitars. Inspirada em design lendários, a Aria PE-350PG possui corpo sólido em Okoume com um topo esculpido em bordo, além de um pescoço em mogno que proporciona excelente estabilidade e ressonância.\n\nEquipada com dois captadores humbucker de alta qualidade, a Aria PE-350PG oferece um som quente, encorpado e rico, que é perfeito para os estilos musicais que vão desde o rock até o blues. Com sua construção sólida e timbre excepcional, essa guitarra é capaz de proporcionar um som único e inesquecível para qualquer tipo de performance musical.",
             "Imagens adicionais": []
         },
         {
@@ -917,10 +909,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-TL Metallic Ice Blue",
-            "Código": "79937",
+            "Nome": "Guitarra Aria Pro II STG-57 2 Tone Sunburst",
+            "Código": "79924",
             "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79937/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79924/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -933,10 +925,34 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Aria Pro II STG-57 Candy Apple Red",
+            "Código": "79926",
+            "Preço": "R$ 1.782,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79926/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II TEG-TL Metallic Ice Blue",
+            "Código": "79937",
+            "Preço": "R$ 1.782,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79937/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Aria Pro II TEG-TL Natural",
             "Código": "79935",
             "Preço": "R$ 1.782,79",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79935/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-57 Black",
+            "Código": "79925",
+            "Preço": "R$ 1.782,79",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79925/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -949,14 +965,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Marble White",
-            "Código": "79942",
-            "Preço": "R$ 1.725,34",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79942/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II 615-WJ Nashville Black",
             "Código": "79944",
             "Preço": "R$ 1.725,34",
@@ -965,10 +973,42 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II MAC-STD Pearl White",
-            "Código": "79971",
+            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Marble White",
+            "Código": "79942",
+            "Preço": "R$ 1.725,34",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79942/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Turquoise Blue",
+            "Código": "79940",
+            "Preço": "R$ 1.725,34",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79940/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Black Diamond",
+            "Código": "79939",
+            "Preço": "R$ 1.725,34",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79939/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Ruby Red",
+            "Código": "79941",
+            "Preço": "R$ 1.725,34",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79941/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Black",
+            "Código": "79968",
             "Preço": "R$ 1.714,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79971/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79968/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -978,14 +1018,6 @@
             "Preço": "R$ 1.714,21",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79969/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II MAC-STD é um verdadeiro clássico do rock. Com corpo em Basswood, este modelo oferece ressonância poderosa e um som característico que é a marca registrada deste modelo lendário.\n\nCom acabamento impecável, este modelo oferece visual elegante, além de ser equipada com dois captadores AST-1 Single Coil e um captador APH-1 Humbucker, a MAC-STD oferece uma ampla gama de tons, desde o som suave e nítido dos captadores Single Coil até o som mais encorpado e quente do captador Humbucker. Essa guitarra é a escolha ideal para guitarristas que buscam som versátil e de alta qualidade.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II MAC-STD Metallic Black",
-            "Código": "79968",
-            "Preço": "R$ 1.714,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79968/500/1.jpg",
-            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1005,27 +1037,35 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Black Diamond",
-            "Código": "79939",
-            "Preço": "R$ 1.619,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79939/500/1.jpg",
+            "Nome": "Guitarra Aria Pro II MAC-STD Pearl White",
+            "Código": "79971",
+            "Preço": "R$ 1.714,21",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79971/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Ruby Red",
-            "Código": "79941",
-            "Preço": "R$ 1.619,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79941/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Nome": "Guitarra Aria Pro II STG-62 3 Tone Sunburst",
+            "Código": "79927",
+            "Preço": "R$ 1.589,12",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79927/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Turquoise Blue",
-            "Código": "79940",
-            "Preço": "R$ 1.619,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79940/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Nome": "Guitarra Aria Pro II STG-62 Vintage White",
+            "Código": "79929",
+            "Preço": "R$ 1.589,12",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79929/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-62 Black",
+            "Código": "79928",
+            "Preço": "R$ 1.589,12",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79928/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
             "Imagens adicionais": []
         },
         {
@@ -1034,30 +1074,6 @@
             "Preço": "R$ 1.577,94",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/87481/500/1.jpg",
             "Descrição": "A Tagima Les Paul Jr Sixmart Signature Whindersson Nunes é uma guitarra assinatura criada em collab com o músico, comediante e YouTuber Whindersson Nunes. Este modelo exclusivo combina design inovador e tecnologia integrada, oferecendo aos guitarristas a possibilidade de acessar efeitos como Delay, Reverb, Overdrive e Distortion diretamente no corpo do instrumento.\n\nCom knobs intuitivos, você controla cada nuance do som de maneira prática, tornando a guitarra perfeita para performances ao vivo, estúdio ou gravações caseiras. Seu design inspirado na clássica Les Paul Jr garante tocabilidade confortável, sustain expressivo e versatilidade para diversos estilos musicais, do rock ao pop.\n\nPerfeita para fãs de Whindersson Nunes e músicos que buscam uma guitarra elétrica versátil, moderna e cheia de personalidade, a Tagima Sixmart Signature transforma cada riff em uma experiência sonora única, elevando suas performances a um novo nível.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
-            "Código": "79946",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II J-1 See-Through Vintage White",
-            "Código": "79947",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79947/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II J-2 Black",
-            "Código": "82295",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82295/500/1.jpg",
-            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -1085,59 +1101,35 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Aria Pro II J-1 See-Through Vintage White",
+            "Código": "79947",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79947/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-2 Black",
+            "Código": "82295",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82295/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
+            "Código": "79946",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Tagima Sixmart Candy Apple",
             "Código": "83086",
             "Preço": "R$ 1.332,31",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83086/500/1.jpg",
             "Descrição": "A Guitarra Tagima Sixmart é um modelo que redefine a experiência de tocar guitarra. O seu diferencial é a inclusão de efeitos embutidos diretamente no instrumento. Imagine ter acesso instantâneo a efeitos de Delay, Reverb, Overdrive e Distortion, tudo facilmente controlado pelos knobs da guitarra.\n\nPossuindo acabamento e coloração em Candu Apple, a Guitarra Tagima Sixmart transmite visual impecável, que se destaca em qualquer ambiente. Com saída de fone e entrada auxiliar P2 incorporadas no escudo da guitarra, é possível praticar silenciosamente ou tocar acompanhado de backing tracks, desfrutando de áudio limpo ou com efeitos, diretamente nos seus ouvidos. A Tagima é uma marca sinônimo de qualidade, e a Guitarra Tagima Sixmart é o exemplo perfeito dessa excelência.\n\nSe você busca inovação, versatilidade e qualidade sonora, a Guitarra Tagima Sixmart é a escolha ideal para músicos exigentes.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-57 Candy Apple Red",
-            "Código": "79926",
-            "Preço": "R$ 1.319,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79926/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-62 Black",
-            "Código": "79928",
-            "Preço": "R$ 1.319,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79928/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-62 3 Tone Sunburst",
-            "Código": "79927",
-            "Preço": "R$ 1.319,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79927/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-57 Black",
-            "Código": "79925",
-            "Preço": "R$ 1.319,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79925/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-57 2 Tone Sunburst",
-            "Código": "79924",
-            "Preço": "R$ 1.319,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79924/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II STG-62 Vintage White",
-            "Código": "79929",
-            "Preço": "R$ 1.319,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79929/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
             "Imagens adicionais": []
         },
         {
@@ -1285,18 +1277,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II Série STG-003/M LH Black (canhoto)",
-            "Código": "79915",
-            "Preço": "R$ 726,54",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79915/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II STG-003/SPL 3 Tone Sunburst",
             "Código": "79916",
             "Preço": "R$ 726,54",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79916/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II Série STG-003/M LH Black (canhoto)",
+            "Código": "79915",
+            "Preço": "R$ 726,54",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79915/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1309,19 +1301,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Encordoamento Para Guitarra Flat Wound .011 AGS900XL Aria Pro II",
-            "Código": "83301",
-            "Preço": "R$ 75,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83301/500/1.jpg",
-            "Descrição": "O Encordoamento Para Guitarra Flat Wound .011 AGS900XL da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Encordoamento Para Guitarra Flat Wound .012 AGS900L Aria Pro II",
             "Código": "83302",
             "Preço": "R$ 75,36",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/83302/500/1.jpg",
             "Descrição": "O Encordoamento Para Guitarra Flat Wound .012 AGS900L da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Encordoamento Para Guitarra Flat Wound .011 AGS900XL Aria Pro II",
+            "Código": "83301",
+            "Preço": "R$ 75,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83301/500/1.jpg",
+            "Descrição": "O Encordoamento Para Guitarra Flat Wound .011 AGS900XL da Aria Pro II é um modelo que faz parte da série AGS-900, caracterizado por oferecer sensação suave e sedosa, com ruído mínimo dos dedos e durabilidade prolongada. Além disso, a superfície polida aumenta a suavidade e contribui para um timbre equilibrado e aveludado.",
             "Imagens adicionais": []
         },
         {
