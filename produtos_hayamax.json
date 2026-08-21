@@ -615,7 +615,7 @@
             "Código": "65441",
             "Preço": "R$ 988,97",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/65441/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "O Contrabaixo Giannini GB-100 Jazz Bass é ideal para contrabaixistas que estão iniciando suas carreiras. Além do design anatômico e moderno, também oferece uma captação com maior qualidade. Possui estilo Jazz Bass, tarraxas Open Gear cromadas, que são estáveis e seguras na afinação, e, dois captadores que produzem graves bem encorpados e controlados, além de agudos mais claros.\n\nA Giannini nasceu há mais de 120 anos, tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.\n\nO crescimento da marca a levou a se tornar uma referência, principalmente em instrumentos acústicos. Até hoje sua produção e importação aliam a eficiente técnica artesanal ao que há de mais moderno em tecnologia industrial. Seus produtos passam por um rígido controle de qualidade e já saem das fábricas impregnados com a credibilidade e os cuidados que são característicos da marca desde 1900.",
             "Imagens adicionais": []
         },
         {
@@ -643,6 +643,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Tagima Kansas Gran Reserva Eletroacústico Aço Dark Mahogany",
+            "Código": "82632",
+            "Preço": "R$ 943,46",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82632/500/1.jpg",
+            "Descrição": "O Violão Tagima Kansas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nA sua estética conta com detalhes de roseta e logo da marca em um vibrante tom de laranja, conferindo uma dose adicional de modernidade a essa linha de violões. O Violão Tagima Kansas Gran Reserva é uma escolha que harmoniza tradição e inovação, oferecendo aos músicos uma qualidade sonora excepcional e uma aparência contemporânea que combina perfeitamente com a sua reputação estabelecida.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Giannini Perform GSS Plus Eletroacústico Aço Vintage Sunburst",
             "Código": "80767",
             "Preço": "R$ 937,07",
@@ -667,22 +675,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Tagima Andes Folk Eletroacústico Aço Lake Placid Blue Satin",
-            "Código": "82796",
-            "Preço": "R$ 919,49",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82796/500/1.jpg",
-            "Descrição": "O Violão Tagima Andes da linha Latin America, é uma celebração da rica cultura latino-americana com um toque inovador e cores vibrantes, oferecendo um excepcional custo/benefício. O modelo Andes da Tagima é projetado para atender a diversos estilos musicais, apresentando o formato Folk Dreadnought com Cutaway para uma versatilidade sonora incomparável.\n\nConstruído com cuidado e precisão, o violão possui tampo em Spruce, proporcionando uma sonoridade equilibrada e envolvente. As laterais e o fundo em Agathis complementam a qualidade tonal, enquanto o braço em Okume com shape em C oferece conforto e facilidade de execução. Já a escala em Tech Wood com 25.5\" de comprimento contribui para uma tocabilidade suave e responsiva. Seja para um músico iniciante ou experiente, o Violão Tagima Andes é a escolha ideal para expressar sua musicalidade em grande estilo.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Tagima Kansas Gran Reserva Eletroacústico Aço Dark Mahogany",
-            "Código": "82632",
-            "Preço": "R$ 917,17",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82632/500/1.jpg",
-            "Descrição": "O Violão Tagima Kansas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nA sua estética conta com detalhes de roseta e logo da marca em um vibrante tom de laranja, conferindo uma dose adicional de modernidade a essa linha de violões. O Violão Tagima Kansas Gran Reserva é uma escolha que harmoniza tradição e inovação, oferecendo aos músicos uma qualidade sonora excepcional e uma aparência contemporânea que combina perfeitamente com a sua reputação estabelecida.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Tobacco Satin",
             "Código": "70632",
             "Preço": "R$ 912,55",
@@ -691,19 +683,19 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Violão Tagima Vegas Gran Reserva Eletroacústico Dark Mahogany",
+            "Código": "85069",
+            "Preço": "R$ 912,25",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/85069/500/1.jpg",
+            "Descrição": "O Violão Tagima Vegas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nSeu design se destaca por detalhes de roseta e um logotipo na cor laranja, conferindo uma estética contemporânea e única a este violão. Além disso, este modelo oferece um som e uma tocabilidade excepcional, garantindo que músicos de todos os níveis possam expressar sua musicalidade com facilidade. Seja para músicos profissionais ou iniciantes, este violão se destaca como uma escolha premium que combina tradição, inovação e qualidade, tornando-o uma adição notável à icônica família Tagima.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Strinberg SA200C Aço Eletroacústico Fosco Tobacco Satin",
             "Código": "70638",
             "Preço": "R$ 907,80",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/70638/500/1.jpg",
             "Descrição": "O Violão Strinberg SA200C é um instrumento musical excepcional, que combina qualidade, estética e excelente custo-benefício.\nPossuindo tampo em Spruce laminado, lateral e fundo em Sapele laminado o que proporcionará a você um tom brilhante e com agudos limpos, contando ainda com captação SE-50 e madeira de excelente qualidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Tagima Andes Folk Eletroacústico Aço Candy Apple Satin",
-            "Código": "82797",
-            "Preço": "R$ 891,82",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82797/500/1.jpg",
-            "Descrição": "O Violão Tagima Andes da linha Latin America, é uma celebração da rica cultura latino-americana com um toque inovador e cores vibrantes, oferecendo um excepcional custo/benefício. O modelo Andes da Tagima é projetado para atender a diversos estilos musicais, apresentando o formato Folk Dreadnought com Cutaway para uma versatilidade sonora incomparável.\n\nConstruído com cuidado e precisão, o violão possui tampo em Spruce, proporcionando uma sonoridade equilibrada e envolvente. As laterais e o fundo em Agathis complementam a qualidade tonal, enquanto o braço em Okume com shape em C oferece conforto e facilidade de execução. Já a escala em Tech Wood com 25.5\" de comprimento contribui para uma tocabilidade suave e responsiva. Seja para um músico iniciante ou experiente, o Violão Tagima Andes é a escolha ideal para expressar sua musicalidade em grande estilo.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
@@ -720,14 +712,6 @@
             "Preço": "R$ 888,56",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82798/500/1.jpg",
             "Descrição": "O Violão Tagima Cartagena é um modelo que faz parte da linha Latin America que celebra a rica cultura latino-americana com seu visual inovador, destacado por cores vibrantes. Este modelo único na linha apresenta cordas de nylon, proporcionando uma experiência sonora singular.\n\nCom construção no formato Classical Flat Cutaway Nylon, o Cartagena oferece não apenas um design atraente, mas também um equilíbrio excepcional e ergonomia ideal para apresentações prolongadas. Seu tampo em Spruce, lateral/fundo em Agathis, braço em Okume com shape em C, e escala em Tech Wood de 25.5\", garantem não apenas um visual marcante, mas também uma qualidade sonora que atende aos padrões elevados da Tagima. Assim, o Violão Tagima Cartagena é uma harmonia perfeita entre estética e desempenho.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Tagima Vegas Gran Reserva Eletroacústico Dark Mahogany",
-            "Código": "85069",
-            "Preço": "R$ 887,16",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/85069/500/1.jpg",
-            "Descrição": "O Violão Tagima Vegas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nSeu design se destaca por detalhes de roseta e um logotipo na cor laranja, conferindo uma estética contemporânea e única a este violão. Além disso, este modelo oferece um som e uma tocabilidade excepcional, garantindo que músicos de todos os níveis possam expressar sua musicalidade com facilidade. Seja para músicos profissionais ou iniciantes, este violão se destaca como uma escolha premium que combina tradição, inovação e qualidade, tornando-o uma adição notável à icônica família Tagima.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
@@ -752,6 +736,22 @@
             "Preço": "R$ 884,83",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/70692/500/1.jpg",
             "Descrição": "O Violão Eletroacústico Strinberg SF200C é um excelente modelo para quem busca um instrumento musical com design moderno, excelente qualidade e ótimo custo-benefício.\nConstituído com corpo no estilo flat, tampo em Sapele e encordoamento de aço, o que proporcionará para você ótima tocabilidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima Rio Negro Eletroacústico Aço Vintage Sunburst",
+            "Código": "82794",
+            "Preço": "R$ 880,92",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82794/500/1.jpg",
+            "Descrição": "O Violão Tagima Rio Negro faz parte da linha Latin America, que é celebra a rica cultura latino-americana por meio de um design visualmente cativante. Com cores vibrantes que refletem a energia da região, este violão oferece um custo/benefício imbatível, unindo qualidade e acessibilidade. O modelo Rio Negro destaca-se por seu formato Grand Auditorium com Cutaway, proporcionando não apenas um visual elegante, mas também um desempenho sonoro excepcional.\n\nO corpo em Grand Auditorium oferece graves consistentes, enquanto o cutaway facilita o acesso às notas mais altas, ampliando as possibilidades musicais. A construção do Rio Negro apresenta um tampo em Spruce, proporcionando ressonância e projeção sonora excepcionais. Já o braço em Okume, com shape em C, oferece conforto e facilidade de execução.\n\nAssim, o Violão Tagima Rio Negro é uma escolha excepcional para músicos que buscam um instrumento de qualidade, visualmente impactante e que ressoa com a paixão e a diversidade da música latino-americana. Seja para iniciantes ou músicos experientes, este violão oferece uma experiência musical enriquecedora a um preço acessível.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima Rio Negro Eletroacústico Aço Natural",
+            "Código": "82795",
+            "Preço": "R$ 880,92",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82795/500/1.jpg",
+            "Descrição": "O Violão Tagima Rio Negro faz parte da linha Latin America, que é celebra a rica cultura latino-americana por meio de um design visualmente cativante. Com cores vibrantes que refletem a energia da região, este violão oferece um custo/benefício imbatível, unindo qualidade e acessibilidade. O modelo Rio Negro destaca-se por seu formato Grand Auditorium com Cutaway, proporcionando não apenas um visual elegante, mas também um desempenho sonoro excepcional.\n\nO corpo em Grand Auditorium oferece graves consistentes, enquanto o cutaway facilita o acesso às notas mais altas, ampliando as possibilidades musicais. A construção do Rio Negro apresenta um tampo em Spruce, proporcionando ressonância e projeção sonora excepcionais. Já o braço em Okume, com shape em C, oferece conforto e facilidade de execução.\n\nAssim, o Violão Tagima Rio Negro é uma escolha excepcional para músicos que buscam um instrumento de qualidade, visualmente impactante e que ressoa com a paixão e a diversidade da música latino-americana. Seja para iniciantes ou músicos experientes, este violão oferece uma experiência musical enriquecedora a um preço acessível.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         }
     ],
