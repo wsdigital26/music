@@ -363,14 +363,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Yamaha APX600 Eletroacústico Aço Oriental Blue Burst",
-            "Código": "64905",
-            "Preço": "R$ 1.754,41",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/64905/500/1.jpg",
-            "Descrição": "O Violão Yamaha APX600 é um instrumento que possui construção visando o conforto e tocabilidade, além do design moderno, a linha APX apresenta timbres naturais, tanto plugados quanto acústicos, e seu corpo estreito e anatômico facilita a vida do músico ao vivo.\n\nPossuindo tampo em Spruce, com aparência natural, 5mm corpo mais profunda para melhor resposta de graves e maior volume e, sob o capô, scalloped se preparando para um ágil, dinâmica tom.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Black Diamond",
             "Código": "79939",
             "Preço": "R$ 1.725,34",
@@ -761,6 +753,14 @@
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82798/500/1.jpg",
             "Descrição": "O Violão Tagima Cartagena é um modelo que faz parte da linha Latin America que celebra a rica cultura latino-americana com seu visual inovador, destacado por cores vibrantes. Este modelo único na linha apresenta cordas de nylon, proporcionando uma experiência sonora singular.\n\nCom construção no formato Classical Flat Cutaway Nylon, o Cartagena oferece não apenas um design atraente, mas também um equilíbrio excepcional e ergonomia ideal para apresentações prolongadas. Seu tampo em Spruce, lateral/fundo em Agathis, braço em Okume com shape em C, e escala em Tech Wood de 25.5\", garantem não apenas um visual marcante, mas também uma qualidade sonora que atende aos padrões elevados da Tagima. Assim, o Violão Tagima Cartagena é uma harmonia perfeita entre estética e desempenho.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima OG-33 Cacau Santos Medium Jumbo Aço Black Open Pore",
+            "Código": "87324",
+            "Preço": "R$ 886,02",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/87324/500/1.jpg",
+            "Descrição": "O OG33 Cacau Santos - Design marcante, construção impecável e sonoridade que impressiona. É um violão eletroacústico Grand Auditorium com cutaway, feito para oferecer projeção equilibrada, visual sofisticado e tocabilidade superior.\nModelo signature do Cacau Santos, combina acabamento escuro refinado, sistema de captação som EQ Tagima TEQ-8 e recursos pensados para quem exige mais do instrumento.",
+            "Imagens adicionais": []
         }
     ],
     "Guitarras": [
@@ -1113,7 +1113,7 @@
             "Código": "79924",
             "Preço": "R$ 1.199,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79924/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
