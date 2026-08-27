@@ -347,11 +347,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-TL 3 Tone Sunburst",
-            "Código": "79936",
+            "Nome": "Guitarra Aria Pro II TEG-TL Natural",
+            "Código": "79935",
             "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79936/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II TEG-TL além de linda é potente. Constituída com corpo em Okoume e braço em Maple, Bolt-on, esse modelo é ideal para guitarristas que buscam um instrumento que entregue o que tem de melhor em performance e durabilidade.\n\nEquipada com captadores CS-1 e OS-1 Single Coil, essa máquina oferece sonoridade quente. O controle de três posições permite que você mude facilmente entre os timbres, enquanto o controle de volume e tonalidade permitem maior flexibilidade na hora do ajuste. A Aria Pro II TEG-TL é perfeita para quem quer som potente, construção de alto padrão e não abre mão do melhor estilo clássico.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79935/500/1.jpg",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -363,11 +363,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-TL Natural",
-            "Código": "79935",
+            "Nome": "Guitarra Aria Pro II TEG-TL 3 Tone Sunburst",
+            "Código": "79936",
             "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79935/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79936/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II TEG-TL além de linda é potente. Constituída com corpo em Okoume e braço em Maple, Bolt-on, esse modelo é ideal para guitarristas que buscam um instrumento que entregue o que tem de melhor em performance e durabilidade.\n\nEquipada com captadores CS-1 e OS-1 Single Coil, essa máquina oferece sonoridade quente. O controle de três posições permite que você mude facilmente entre os timbres, enquanto o controle de volume e tonalidade permitem maior flexibilidade na hora do ajuste. A Aria Pro II TEG-TL é perfeita para quem quer som potente, construção de alto padrão e não abre mão do melhor estilo clássico.",
             "Imagens adicionais": []
         },
         {
@@ -491,14 +491,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-2 Black",
-            "Código": "82295",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82295/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II J-2 Candy Apple Red",
             "Código": "79948",
             "Preço": "R$ 1.371,36",
@@ -507,18 +499,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-1 Black",
-            "Código": "79945",
+            "Nome": "Guitarra Aria Pro II J-2 Black",
+            "Código": "82295",
             "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79945/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
-            "Código": "79946",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82295/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -531,11 +515,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Tagima Sixmart Metallic Deep Silver",
-            "Código": "83087",
-            "Preço": "R$ 1.332,31",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83087/500/1.jpg",
-            "Descrição": "A Guitarra Tagima Sixmart é um modelo que redefine a experiência de tocar guitarra. O seu diferencial é a inclusão de efeitos embutidos diretamente no instrumento. Imagine ter acesso instantâneo a efeitos de Delay, Reverb, Overdrive e Distortion, tudo facilmente controlado pelos knobs da guitarra.\n\nPossuindo acabamento e coloração em Metallic Deep Silver, a Guitarra Tagima Sixmart transmite visual impecável, que se destaca em qualquer ambiente. Com saída de fone e entrada auxiliar P2 incorporadas no escudo da guitarra, é possível praticar silenciosamente ou tocar acompanhado de backing tracks, desfrutando de áudio limpo ou com efeitos, diretamente nos seus ouvidos. A Tagima é uma marca sinônimo de qualidade, e a Guitarra Tagima Sixmart é o exemplo perfeito dessa excelência.\n\nSe você busca inovação, versatilidade e qualidade sonora, a Guitarra Tagima Sixmart é a escolha ideal para músicos exigentes.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
+            "Código": "79946",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-1 Black",
+            "Código": "79945",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79945/500/1.jpg",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -547,6 +539,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Tagima Sixmart Metallic Deep Silver",
+            "Código": "83087",
+            "Preço": "R$ 1.332,31",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/83087/500/1.jpg",
+            "Descrição": "A Guitarra Tagima Sixmart é um modelo que redefine a experiência de tocar guitarra. O seu diferencial é a inclusão de efeitos embutidos diretamente no instrumento. Imagine ter acesso instantâneo a efeitos de Delay, Reverb, Overdrive e Distortion, tudo facilmente controlado pelos knobs da guitarra.\n\nPossuindo acabamento e coloração em Metallic Deep Silver, a Guitarra Tagima Sixmart transmite visual impecável, que se destaca em qualquer ambiente. Com saída de fone e entrada auxiliar P2 incorporadas no escudo da guitarra, é possível praticar silenciosamente ou tocar acompanhado de backing tracks, desfrutando de áudio limpo ou com efeitos, diretamente nos seus ouvidos. A Tagima é uma marca sinônimo de qualidade, e a Guitarra Tagima Sixmart é o exemplo perfeito dessa excelência.\n\nSe você busca inovação, versatilidade e qualidade sonora, a Guitarra Tagima Sixmart é a escolha ideal para músicos exigentes.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Aria Pro II J-TL 2 Tone Sunburst",
             "Código": "81368",
             "Preço": "R$ 1.302,79",
@@ -555,10 +555,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II STG-62 Vintage White",
-            "Código": "79929",
+            "Nome": "Guitarra Aria Pro II STG-62 3 Tone Sunburst",
+            "Código": "79927",
             "Preço": "R$ 1.199,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79929/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79927/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
             "Imagens adicionais": []
         },
@@ -571,10 +571,10 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II STG-62 3 Tone Sunburst",
-            "Código": "79927",
+            "Nome": "Guitarra Aria Pro II STG-62 Vintage White",
+            "Código": "79929",
             "Preço": "R$ 1.199,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79927/500/1.jpg",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79929/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
             "Imagens adicionais": []
         },
@@ -591,7 +591,7 @@
             "Código": "79925",
             "Preço": "R$ 1.199,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79925/500/1.jpg",
-            "Descrição": "",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -600,22 +600,6 @@
             "Preço": "R$ 1.199,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79924/500/1.jpg",
             "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Strinberg SD201HC Folk Aço Eletroacústico Natural Satin Com Bag",
-            "Código": "78328",
-            "Preço": "R$ 1.125,31",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/78328/500/1.jpg",
-            "Descrição": "O Violão Strinberg SD201HC é um excelente instrumento musical, com um belíssimo design, ótimo acabamento e uma sonoridade perfeita. Feito com a melhor acústica que você já ouviu, possuindo ainda sistema elétrico e acústica o que melhora de forma exponencial as suas apresentações.\n\nCom o objetivo de te entregar o melhor resultado, a Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
-            "Imagens adicionais": []
-        },
-        {
-            "Nome": "Violão Giannini Trovador NTR1 Eletroacústico EQ Nylon Natural Satin",
-            "Código": "81190",
-            "Preço": "R$ 1.056,66",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/81190/500/1.jpg",
-            "Descrição": "O Violão Giannini Trovador NTR1 Eletroacústico é um dos modelos mais tradicionais da marca Giannini, com uma história que remonta aos anos 70. Ele faz parte da linha Trovador, que começou como uma extensão da Série Estudo e posteriormente expandiu-se para incluir violas, cavaquinhos e violões infantis.\n\nO Trovador NTR1 possui características de alta qualidade, como um tampo maciço em Marupá e faixa e fundo em Cedro Brasileiro. O instrumento também possui escala em Pau-ferro e um braço de Cedro Brasileiro com tensor bi-direcional, oferecendo conforto e versatilidade para os músicos. Seu acabamento é em verniz fosco, conferindo um aspecto elegante.\n\nO Trovador é considerado um instrumento de alto padrão, adequado tanto para músicos iniciantes como para músicos mais experientes. Além disso, ele conta com equalizador GN-3T, um equalizador de 3 bandas com afinador, que o torna ideal para qualquer desafio.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes. Giannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo.\n\nTendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
             "Imagens adicionais": []
         },
         {
@@ -739,6 +723,14 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Tagima Strato TG-515 Black",
+            "Código": "87668",
+            "Preço": "R$ 915,12",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/87668/500/1.jpg",
+            "Descrição": "A Guitarra Tagima TG-515 da linha Woodstock Series combina design moderno, versatilidade sonora e excelente custo-benefício, sendo ideal para músicos que buscam timbres encorpados e performance confiável.  \nSeu corpo em poplar garante leveza e boa ressonância, enquanto o braço em hard maple com escala em techwood proporciona tocabilidade  confortável e resistência, atendendo desde iniciantes até guitarristas experientes. Equipada com dois captadores humbuckers, a TG-515 entrega potência e definição, perfeita para riffs pesados, bases cheias e solos expressivos. A ponte tremolo de 2 pivôs amplia as possibilidades criativas com alavancadas precisas e estáveis, enquanto o nut de 43 mm e as tarraxas diecast asseguram afinação consistente.  \nCom controles de volume<(>,<)> tone e chave seletora de 3 posições, oferece praticidade para explorar diferentes timbres com rapidez. Versátil, acessível e construída com a qualidade reconhecida da Tagima, a TG-515 é uma escolha certeira para quem deseja uma guitarra confiável para ensaios, palcos ou estúdio. \nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Violão Strinberg SD200C Aço Eletroacústico Fosco Tobacco Satin",
             "Código": "70632",
             "Preço": "R$ 912,55",
@@ -760,6 +752,14 @@
             "Preço": "R$ 907,80",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/70638/500/1.jpg",
             "Descrição": "O Violão Strinberg SA200C é um instrumento musical excepcional, que combina qualidade, estética e excelente custo-benefício.\nPossuindo tampo em Spruce laminado, lateral e fundo em Sapele laminado o que proporcionará a você um tom brilhante e com agudos limpos, contando ainda com captação SE-50 e madeira de excelente qualidade.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima Andes Eletroacústico Folk Aço Natural Amber Satin",
+            "Código": "82103",
+            "Preço": "R$ 891,82",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82103/500/1.jpg",
+            "Descrição": "O Violão Tagima Andes faz parte da Linha Latin America, apresentando um visual inovador que se destaca pela presença de cores vibrantes e um irresistível custo/benefício. Este modelo da Tagima é projetado para atender às demandas musicais de diversos estilos, tornando-se a escolha ideal para os apaixonados por música.\n\nCom seu formato Folk Dreadnought com Cutaway, o Violão Tagima Andes entrega versatilidade sonora incomparável dentro da linha. Essa combinação de características proporciona não apenas um design elegante, mas também a amplitude e profundidade sonora desejada por músicos exigentes. Seja para performances acústicas intimistas ou para tocar em grandes palcos, o Tagima Andes se destaca, oferecendo o equilíbrio perfeito entre estética, funcionalidade e qualidade sonora.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         }
     ],
@@ -1029,18 +1029,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-2 Black",
-            "Código": "82295",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82295/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II J-2 See-Through Vintage White",
             "Código": "82298",
             "Preço": "R$ 1.371,36",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82298/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-2 Black",
+            "Código": "82295",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82295/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1125,14 +1125,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Tagima Strato Duo Smart S CA",
-            "Código": "86302",
-            "Preço": "R$ 1.033,38",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86302/500/1.jpg",
-            "Descrição": "Marca: TAGIMA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Tagima Strato Duo Smart S BK",
             "Código": "86303",
             "Preço": "R$ 1.033,38",
@@ -1141,11 +1133,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Candy Apple",
-            "Código": "86300",
+            "Nome": "Guitarra Tagima Strato Duo Smart S CA",
+            "Código": "86302",
             "Preço": "R$ 1.033,38",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86300/500/1.jpg",
-            "Descrição": "Conheça a  Duosmart-H é a nova integrante da série Smart.  Na versão H, conta dois humburckers e dois efeitos clássicos (overdrive e delay), fazendo dela um instrumento para músicos iniciantes ou profissionais tocarem em qualquer lugar, seja palcos ou mesmo em casa, A Duosmart-H conta com uma saída para fones de ouvido e uma entrada auxiliar para que você toque junto com uma backing track daquele seu artista favorito. Bem vindo ao novo conceito de instrumentos Tagima. Não é só mais uma guitarra: a Duosmart-H integrante da linha Smart Series - tem  personalidade e inovação, caminhando lado a lado com um designer clássico unindo a tecnologia da Sixmart. Um instrumento único, com efeitos necessários para qualquer situação: seja da estrada, no palco ou nos estudos de casa. Equipada com dois captadores humbuckers, essa guitarra é certeza de personalidade e versatilidade.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86302/500/1.jpg",
+            "Descrição": "Marca: TAGIMA",
             "Imagens adicionais": []
         },
         {
@@ -1157,11 +1149,27 @@
             "Imagens adicionais": []
         },
         {
+            "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Candy Apple",
+            "Código": "86300",
+            "Preço": "R$ 1.033,38",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86300/500/1.jpg",
+            "Descrição": "Conheça a  Duosmart-H é a nova integrante da série Smart.  Na versão H, conta dois humburckers e dois efeitos clássicos (overdrive e delay), fazendo dela um instrumento para músicos iniciantes ou profissionais tocarem em qualquer lugar, seja palcos ou mesmo em casa, A Duosmart-H conta com uma saída para fones de ouvido e uma entrada auxiliar para que você toque junto com uma backing track daquele seu artista favorito. Bem vindo ao novo conceito de instrumentos Tagima. Não é só mais uma guitarra: a Duosmart-H integrante da linha Smart Series - tem  personalidade e inovação, caminhando lado a lado com um designer clássico unindo a tecnologia da Sixmart. Um instrumento único, com efeitos necessários para qualquer situação: seja da estrada, no palco ou nos estudos de casa. Equipada com dois captadores humbuckers, essa guitarra é certeza de personalidade e versatilidade.",
+            "Imagens adicionais": []
+        },
+        {
             "Nome": "Guitarra Tagima TG-500 Candy Apple E/AWH",
             "Código": "85060",
             "Preço": "R$ 923,90",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/85060/500/1.jpg",
             "Descrição": "Marca: TAGIMA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Tagima Strato TG-515 Black",
+            "Código": "87668",
+            "Preço": "R$ 915,12",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/87668/500/1.jpg",
+            "Descrição": "A Guitarra Tagima TG-515 da linha Woodstock Series combina design moderno, versatilidade sonora e excelente custo-benefício, sendo ideal para músicos que buscam timbres encorpados e performance confiável.  \nSeu corpo em poplar garante leveza e boa ressonância, enquanto o braço em hard maple com escala em techwood proporciona tocabilidade  confortável e resistência, atendendo desde iniciantes até guitarristas experientes. Equipada com dois captadores humbuckers, a TG-515 entrega potência e definição, perfeita para riffs pesados, bases cheias e solos expressivos. A ponte tremolo de 2 pivôs amplia as possibilidades criativas com alavancadas precisas e estáveis, enquanto o nut de 43 mm e as tarraxas diecast asseguram afinação consistente.  \nCom controles de volume<(>,<)> tone e chave seletora de 3 posições, oferece praticidade para explorar diferentes timbres com rapidez. Versátil, acessível e construída com a qualidade reconhecida da Tagima, a TG-515 é uma escolha certeira para quem deseja uma guitarra confiável para ensaios, palcos ou estúdio. \nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
         },
         {
