@@ -59,14 +59,6 @@
     ],
     "Violões": [
         {
-            "Nome": "Violão Yamaha TAG3C TransAcoustic Natural",
-            "Código": "88587",
-            "Preço": "R$ 10.148,52",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/88587/500/1.jpg",
-            "Descrição": "O Violão TransAcoustic Yamaha TAG3 C é um modelo que une sonoridade premium de um violão acústico à tecnologia avançada para expandir sua criatividade musical. Ideal para composições, ensaios, apresentações e gravações, ele oferece recursos inovadores que transformam a experiência de tocar. \n\nSua construção conta com tampo sólido em Sitka Spruce tratado com a tecnologia A.R.E. (Acoustic Resonance Enhancement), além de fundo e laterais sólidos em mogno, proporcionando um timbre rico, equilibrado e com excelente projeção sonora. O corpo dreadnought com cutaway garante conforto ao tocar e fácil acesso às notas mais agudas. \n\nO grande destaque do violão TAG3 C está em seus recursos integrados, incluindo efeitos de reverb, chorus e delay de alta qualidade, além de um looper embutido acionado por sensor de toque. A conectividade Bluetooth permite reproduzir áudio diretamente pelo instrumento, tornando-o ainda mais versátil para estudos e performances. Com bateria recarregável e sistema de carregamento magnético, o Yamaha TAG3 C oferece praticidade e liberdade para explorar novas possibilidades musicais sem a necessidade de equipamentos externos. \n\nFundada em 1887 por Torakusu Yamaha, a Yamaha iniciou sua trajetória no Japão com a fabricação de instrumentos musicais e rapidamente se tornou uma referência mundial em qualidade, inovação e excelência sonora. \n\nAo longo de mais de um século de história, a marca conquistou músicos de todos os níveis, desenvolvendo instrumentos reconhecidos pela confiabilidade, desempenho e atenção aos detalhes. Hoje, a Yamaha está entre as maiores fabricantes de instrumentos musicais do mundo, mantendo seu compromisso de inspirar pessoas por meio da música e proporcionar experiências que conectam artistas e públicos em todo o mundo.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Yamaha A5M Are Eletroacústico Aço Natural",
             "Código": "81958",
             "Preço": "R$ 9.503,08",
@@ -75,19 +67,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Yamaha Revstar RSS 20 Black Com Bag",
-            "Código": "80594",
-            "Preço": "R$ 5.628,01",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80594/500/1.jpg",
-            "Descrição": "Marca: YAMAHA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Yamaha Revstar RSS 02T Black Com Bag",
             "Código": "80600",
             "Preço": "R$ 5.628,01",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/80600/500/1.jpg",
             "Descrição": "A Guitarra Yamaha Revstar RSS 02T é um instrumento de alta qualidade projetado para atender às necessidades de guitarristas exigentes. Ela vem equipada com captadores estilo P90 de bobina única, que fornecem um som vintage e quente, com um toque moderno.\n\nAcompanhada de chave de 5 posições, que permite ao músico selecionar facilmente as diferentes combinações de captadores, proporcionando uma ampla gama de possibilidades sonoras. Além disso, o Focus Switch permite uma alteração no timbre, adicionando mais definição e clareza ao som.\n\nCom sua construção sólida e recursos de alta qualidade, a Yamaha Revstar RSS02T é uma ótima escolha para qualquer guitarrista que busca um instrumento versátil e confiável.\n\nA história da Yamaha começou por volta do ano de 1887 pelo fundador Torakusu Yamaha, iniciando a produção de instrumentos ocidentais no Japão. O primeiro instrumento foi um órgão de bambu do Japão, e consequentemente a inspiração veio de forma natural para a criação de outros instrumentos.\n\nAtualmente, a marca é uma das maiores fabricantes de instrumentos musicais do mundo, buscando entregar qualidade e inspirar cada vez mais as pessoas a se apaixonar pelo mundo da música.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Yamaha Revstar RSS 20 Black Com Bag",
+            "Código": "80594",
+            "Preço": "R$ 5.628,01",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80594/500/1.jpg",
+            "Descrição": "Marca: YAMAHA",
             "Imagens adicionais": []
         },
         {
@@ -407,7 +399,7 @@
             "Código": "85791",
             "Preço": "R$ 1.847,35",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/85791/500/1.jpg",
-            "Descrição": "O Violão Giannini Performance Deluxe é ideal para músicos que buscam qualidade e desempenho excepcionais. Com o shape Dreadnought Cutaway, ele oferece um som encorpado e equilibrado, ideal tanto para iniciantes quanto para músicos mais experientes.\n\nJá o tensor bi-direcional proporciona um ajuste preciso e fácil da tensão das cordas, garantindo maior estabilidade e durabilidade ao instrumento. Suas 2 bandas de equalização permitem personalizar o timbre conforme suas preferências, enquanto o afinador integrado facilita a afinação perfeita em qualquer momento. As tarraxas blindadas garantem maior precisão e durabilidade, mantendo o violão sempre afinado.\n\nO Giannini Performance Deluxe é um violão completo, com design sofisticado e recursos ideais para quem busca um som de qualidade profissional.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
@@ -603,14 +595,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II STG-57 Black",
-            "Código": "79925",
-            "Preço": "R$ 1.199,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79925/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II STG-57 Candy Apple Red",
             "Código": "79926",
             "Preço": "R$ 1.199,88",
@@ -624,6 +608,14 @@
             "Preço": "R$ 1.199,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79927/500/1.jpg",
             "Descrição": "A Guitarra Aria Pro II STG-62 é um modelo clássico de tirar o fôlego de qualquer guitarrista. Com corpo em Alder e braço Maple Bolt-on, este modelo oferece som potente, timbre expressivo e alta definição. Seu timbre expressivo e alta definição fazem deste modelo a escolha popular entre músicos de todos os estilos musicais.\n\nConstituída com escala de 25,5 polegadas, a Aria Pro II STG-62 é ideal para tocar riffs e acordes mais complexos mesmo com afinações mais baixas. Além disso, este modelo está disponível em três cores, permitindo que você escolha a que mais combina com o seu estilo.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II STG-57 Black",
+            "Código": "79925",
+            "Preço": "R$ 1.199,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79925/500/1.jpg",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -777,6 +769,14 @@
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82631/500/1.jpg",
             "Descrição": "O Violão Tagima Dallas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nSeu design se destaca por detalhes de roseta e um logotipo na cor laranja, conferindo uma estética contemporânea e única a este violão. Além disso, este modelo oferece um som e uma tocabilidade excepcional, garantindo que músicos de todos os níveis possam expressar sua musicalidade com facilidade. Seja para músicos profissionais ou iniciantes, este violão se destaca como uma escolha premium que combina tradição, inovação e qualidade, tornando-o uma adição notável à icônica família Tagima.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Tagima Kansas Gran Reserva Eletroacústico Aço Dark Mahogany",
+            "Código": "82632",
+            "Preço": "R$ 943,46",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82632/500/1.jpg",
+            "Descrição": "O Violão Tagima Kansas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nA sua estética conta com detalhes de roseta e logo da marca em um vibrante tom de laranja, conferindo uma dose adicional de modernidade a essa linha de violões. O Violão Tagima Kansas Gran Reserva é uma escolha que harmoniza tradição e inovação, oferecendo aos músicos uma qualidade sonora excepcional e uma aparência contemporânea que combina perfeitamente com a sua reputação estabelecida.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
+            "Imagens adicionais": []
         }
     ],
     "Guitarras": [
@@ -929,7 +929,7 @@
             "Código": "79944",
             "Preço": "R$ 1.725,34",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79944/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II 615-WJ Nashville é um modelo incrível, possuindo acabamento em preto brilhante, projetada para guitarristas que procuram um instrumento versátil com um visual clássico. O corpo da guitarra é feito de Poplar, proporcionando um som quente e encorpado, enquanto o braço em Maple com escala em Rosewood oferece uma sensação confortável e suave ao tocar.\n\nEquipada com captadores Alnico-5 que fornecem um som poderoso e cristalino, além de um controle de volume e tonalidade para cada captador, permitindo que os músicos personalizem seu som com facilidade.\n\nA Aria Pro II 615-WJ é ideal para músicos de estilos variados, desde o rock até o country e o blues. Com sua combinação de madeiras de qualidade, captadores de alta saída e hardware confiável, esta guitarra oferece um excelente equilíbrio entre som, conforto e estilo.",
+            "Descrição": "",
             "Imagens adicionais": []
         },
         {
