@@ -147,14 +147,6 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Violão Eletroacústico Takamine GD11MCE Mogno",
-            "Código": "56894",
-            "Preço": "R$ 2.749,28",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/56894/500/1.jpg",
-            "Descrição": "O Violão Eletroacústico Takamine GD11MCE é um instrumento musical excepcional, possuindo em seu design madeiramento de alta qualidade, este modelo é ideal para músicos exigentes que buscam um instrumento com sonoridade de primeira.\n\nSendo constituído com corpo em mogno, este modelo proporciona timbre quente e equilibrado, com a força sonora típica do folk.\n\nA Takamine foi fundada por volta do ano de 1959, sendo inicialmente localizada ao pé do monte Takamine na cidade de Sakashita.\n\nAtualmente, a marca é uma das mais conceituada, sendo referência em qualidade, conforto e tocabilidade em todo o mundo. Seus produtos são fabricados com madeiras nobres e ferragens da mais altíssima qualidade. Utilizado por diversos artistas de diversos gêneros. Desde as linhas mais inferiores até as mais profissionais, eles nunca perdem suas características e seu destacado padrão de qualidade.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Violão Yamaha FGX800C/02 Eletroacústico Aço Sunburst",
             "Código": "71295",
             "Preço": "R$ 2.593,88",
@@ -761,22 +753,30 @@
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82632/500/1.jpg",
             "Descrição": "O Violão Tagima Kansas Gran Reserva é um modelo que incorpora o renascimento das lendárias criações da Tagima ao longo das últimas duas décadas. Esta bela adição à Linha Gran Reserva é uma fusão dos aclamados violões Dallas e Dallas Mahogany, resultando em um instrumento de qualidade excepcional.\n\nA sua estética conta com detalhes de roseta e logo da marca em um vibrante tom de laranja, conferindo uma dose adicional de modernidade a essa linha de violões. O Violão Tagima Kansas Gran Reserva é uma escolha que harmoniza tradição e inovação, oferecendo aos músicos uma qualidade sonora excepcional e uma aparência contemporânea que combina perfeitamente com a sua reputação estabelecida.\n\nA Tagima foi fundada no ano de 1986 pelo luthier Seizi Tagima, porém, no ano de 1996 a marca Marutec Music, importadora de equipamentos musicais e eletrônicos adquiriu a marca. Sendo referência em qualidade no mercado, a Tagima compete em igual condição com marcas internacionais mais bem consagradas da história.",
             "Imagens adicionais": []
+        },
+        {
+            "Nome": "Violão Giannini Perform GSS Plus Eletroacústico Aço Vintage Sunburst",
+            "Código": "80767",
+            "Preço": "R$ 937,07",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80767/500/1.jpg",
+            "Descrição": "O Violão Giannini Perform GSS Plus é um modelo de violão com corpo em formato Dreadnought, ou seja, possui um formato que combina elementos do tradicional Dreadnought com o corpo mais arredondado dos violões com formato de ombro inclinado.\n\nConstruído em madeira de alta qualidade como tampo em Spruce e fundo e faixa em Sapele, o que proporciona um som brilhante e ressonante, com boa projeção e definição. Com acabamento Verniz brilhante que transmite visual elegante e sofisticado ao instrumento. Além disso, o violão Giannini Perform GSS Plus é um modelo versátil, indicado para diversos estilos musicais, como folk, country, blues, rock e pop. É um modelo de qualidade, com boa projeção sonora e acabamento elegante, ideal tanto para músicos iniciantes quanto para profissionais.\n\nA marca Giannini faz a fabricação de instrumentos musicais fabricados no Brasil, possuindo em seu design madeiras selecionadas, com a criação de produtos de excelente qualidade, buscando assim satisfazer os clientes.\n\nGiannini está no mercado desde 1900, fundada inicialmente na cidade de São Paulo. Tendo sua história unida a da música brasileira a empresa se tornou uma das mais tradicionais marcas de instrumentos musicais existentes no Brasil.",
+            "Imagens adicionais": []
         }
     ],
     "Guitarras": [
-        {
-            "Nome": "Guitarra Yamaha Revstar RSS 20 Flash Green",
-            "Código": "80598",
-            "Preço": "R$ 5.628,01",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80598/500/1.jpg",
-            "Descrição": "Marca: YAMAHA",
-            "Imagens adicionais": []
-        },
         {
             "Nome": "Guitarra Yamaha Revstar RSS 20 Black Com Bag",
             "Código": "80594",
             "Preço": "R$ 5.628,01",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/80594/500/1.jpg",
+            "Descrição": "Marca: YAMAHA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Yamaha Revstar RSS 20 Flash Green",
+            "Código": "80598",
+            "Preço": "R$ 5.628,01",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/80598/500/1.jpg",
             "Descrição": "Marca: YAMAHA",
             "Imagens adicionais": []
         },
@@ -797,18 +797,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II MAC-DLX Stained Brown",
-            "Código": "82296",
-            "Preço": "R$ 2.194,21",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82296/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II MAC-DLX Stained Black",
             "Código": "82297",
             "Preço": "R$ 2.194,21",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82297/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II MAC-DLX Stained Brown",
+            "Código": "82296",
+            "Preço": "R$ 2.194,21",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82296/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -821,18 +821,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Strinberg SGS500 Onix Black",
-            "Código": "89621",
-            "Preço": "R$ 2.012,23",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/89621/500/1.jpg",
-            "Descrição": "A Guitarra Strinberg SGS500 combina visual marcante, conforto e versatilidade para acompanhar diferentes momentos da jornada musical. Com corpo no formato Double Cutaway e acabamento impecável, ela traz uma estética moderna e cheia de personalidade para o setup.\n\nSeu corpo em Okoume trabalha em conjunto com o braço em Roasted Maple, proporcionando uma construção pensada para uma experiência confortável ao tocar. A guitarra também conta com escala em Pau Ferro de 25,5\", 22 trastes e construção Bolt-On Neck, características que favorecem a tocabilidade e permitem explorar diferentes técnicas e estilos.\n\nOutro destaque da Strinberg SGS500 é sua configuração de captadores HSS, com um humbucker passivo na ponte e dois single coils passivos nas posições do meio e braço. Com chave seletora de 5 posições e controles de volume e tonalidade, a guitarra oferece diferentes possibilidades sonoras para quem busca versatilidade. Assim, a Strinberg SGS500 é uma opção para guitarristas que procuram um instrumento elétrico com visual moderno, construção versátil e recursos para estudar, praticar e explorar novas sonoridades.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Strinberg SGS500 Pearl White",
             "Código": "89620",
             "Preço": "R$ 2.012,23",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/89620/500/1.jpg",
+            "Descrição": "A Guitarra Strinberg SGS500 combina visual marcante, conforto e versatilidade para acompanhar diferentes momentos da jornada musical. Com corpo no formato Double Cutaway e acabamento impecável, ela traz uma estética moderna e cheia de personalidade para o setup.\n\nSeu corpo em Okoume trabalha em conjunto com o braço em Roasted Maple, proporcionando uma construção pensada para uma experiência confortável ao tocar. A guitarra também conta com escala em Pau Ferro de 25,5\", 22 trastes e construção Bolt-On Neck, características que favorecem a tocabilidade e permitem explorar diferentes técnicas e estilos.\n\nOutro destaque da Strinberg SGS500 é sua configuração de captadores HSS, com um humbucker passivo na ponte e dois single coils passivos nas posições do meio e braço. Com chave seletora de 5 posições e controles de volume e tonalidade, a guitarra oferece diferentes possibilidades sonoras para quem busca versatilidade. Assim, a Strinberg SGS500 é uma opção para guitarristas que procuram um instrumento elétrico com visual moderno, construção versátil e recursos para estudar, praticar e explorar novas sonoridades.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Strinberg SGS500 Onix Black",
+            "Código": "89621",
+            "Preço": "R$ 2.012,23",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/89621/500/1.jpg",
             "Descrição": "A Guitarra Strinberg SGS500 combina visual marcante, conforto e versatilidade para acompanhar diferentes momentos da jornada musical. Com corpo no formato Double Cutaway e acabamento impecável, ela traz uma estética moderna e cheia de personalidade para o setup.\n\nSeu corpo em Okoume trabalha em conjunto com o braço em Roasted Maple, proporcionando uma construção pensada para uma experiência confortável ao tocar. A guitarra também conta com escala em Pau Ferro de 25,5\", 22 trastes e construção Bolt-On Neck, características que favorecem a tocabilidade e permitem explorar diferentes técnicas e estilos.\n\nOutro destaque da Strinberg SGS500 é sua configuração de captadores HSS, com um humbucker passivo na ponte e dois single coils passivos nas posições do meio e braço. Com chave seletora de 5 posições e controles de volume e tonalidade, a guitarra oferece diferentes possibilidades sonoras para quem busca versatilidade. Assim, a Strinberg SGS500 é uma opção para guitarristas que procuram um instrumento elétrico com visual moderno, construção versátil e recursos para estudar, praticar e explorar novas sonoridades.\n\nA Strinberg teve seu legado iniciado na década de 90, e desde então tem como prioridade manter a qualidade de seus produtos, oferecendo assim instrumentos musicais diferenciados e de essência brasileira.",
             "Imagens adicionais": []
         },
@@ -877,11 +877,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-TL White Tortoise Pickguard",
-            "Código": "79938",
+            "Nome": "Guitarra Aria Pro II TEG-TL 3 Tone Sunburst",
+            "Código": "79936",
             "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79938/500/1.jpg",
-            "Descrição": "Marca: ARIA",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79936/500/1.jpg",
+            "Descrição": "A Guitarra Aria Pro II TEG-TL além de linda é potente. Constituída com corpo em Okoume e braço em Maple, Bolt-on, esse modelo é ideal para guitarristas que buscam um instrumento que entregue o que tem de melhor em performance e durabilidade.\n\nEquipada com captadores CS-1 e OS-1 Single Coil, essa máquina oferece sonoridade quente. O controle de três posições permite que você mude facilmente entre os timbres, enquanto o controle de volume e tonalidade permitem maior flexibilidade na hora do ajuste. A Aria Pro II TEG-TL é perfeita para quem quer som potente, construção de alto padrão e não abre mão do melhor estilo clássico.",
             "Imagens adicionais": []
         },
         {
@@ -893,11 +893,11 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II TEG-TL 3 Tone Sunburst",
-            "Código": "79936",
+            "Nome": "Guitarra Aria Pro II TEG-TL White Tortoise Pickguard",
+            "Código": "79938",
             "Preço": "R$ 1.782,79",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79936/500/1.jpg",
-            "Descrição": "A Guitarra Aria Pro II TEG-TL além de linda é potente. Constituída com corpo em Okoume e braço em Maple, Bolt-on, esse modelo é ideal para guitarristas que buscam um instrumento que entregue o que tem de melhor em performance e durabilidade.\n\nEquipada com captadores CS-1 e OS-1 Single Coil, essa máquina oferece sonoridade quente. O controle de três posições permite que você mude facilmente entre os timbres, enquanto o controle de volume e tonalidade permitem maior flexibilidade na hora do ajuste. A Aria Pro II TEG-TL é perfeita para quem quer som potente, construção de alto padrão e não abre mão do melhor estilo clássico.",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79938/500/1.jpg",
+            "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
         {
@@ -949,18 +949,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Black Diamond",
-            "Código": "79939",
-            "Preço": "R$ 1.619,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79939/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Ruby Red",
             "Código": "79941",
             "Preço": "R$ 1.619,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79941/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II 615-MK2 Nashville Black Diamond",
+            "Código": "79939",
+            "Preço": "R$ 1.619,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79939/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1021,18 +1021,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-2 See-Through Vintage White",
-            "Código": "82298",
-            "Preço": "R$ 1.371,36",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82298/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II J-2 Black",
             "Código": "82295",
             "Preço": "R$ 1.371,36",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/82295/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-2 See-Through Vintage White",
+            "Código": "82298",
+            "Preço": "R$ 1.371,36",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/82298/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1109,18 +1109,18 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Aria Pro II J-1 Black",
-            "Código": "79945",
-            "Preço": "R$ 1.079,88",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79945/500/1.jpg",
-            "Descrição": "Marca: ARIA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Aria Pro II J-1 Candy Apple Red",
             "Código": "79946",
             "Preço": "R$ 1.079,88",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/79946/500/1.jpg",
+            "Descrição": "Marca: ARIA",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Aria Pro II J-1 Black",
+            "Código": "79945",
+            "Preço": "R$ 1.079,88",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/79945/500/1.jpg",
             "Descrição": "Marca: ARIA",
             "Imagens adicionais": []
         },
@@ -1133,19 +1133,19 @@
             "Imagens adicionais": []
         },
         {
-            "Nome": "Guitarra Tagima Strato Duo Smart S BK",
-            "Código": "86303",
-            "Preço": "R$ 1.033,38",
-            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86303/500/1.jpg",
-            "Descrição": "Marca: TAGIMA",
-            "Imagens adicionais": []
-        },
-        {
             "Nome": "Guitarra Tagima Jazzmaster Strato DuoSmart Black",
             "Código": "86301",
             "Preço": "R$ 1.033,38",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/86301/500/1.jpg",
             "Descrição": "Conheça a  Duosmart-H é a nova integrante da série Smart.  Na versão H, conta dois humburckers e dois efeitos clássicos (overdrive e delay), fazendo dela um instrumento para músicos iniciantes ou profissionais tocarem em qualquer lugar, seja palcos ou mesmo em casa, A Duosmart-H conta com uma saída para fones de ouvido e uma entrada auxiliar para que você toque junto com uma backing track daquele seu artista favorito. Bem vindo ao novo conceito de instrumentos Tagima. Não é só mais uma guitarra: a Duosmart-H integrante da linha Smart Series - tem  personalidade e inovação, caminhando lado a lado com um designer clássico unindo a tecnologia da Sixmart. Um instrumento único, com efeitos necessários para qualquer situação: seja da estrada, no palco ou nos estudos de casa. Equipada com dois captadores humbuckers, essa guitarra é certeza de personalidade e versatilidade.",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Tagima Strato Duo Smart S BK",
+            "Código": "86303",
+            "Preço": "R$ 1.033,38",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/86303/500/1.jpg",
+            "Descrição": "Marca: TAGIMA",
             "Imagens adicionais": []
         },
         {
@@ -1225,6 +1225,14 @@
             "Código": "38402",
             "Preço": "R$ 783,29",
             "Imagem (URL)": "https://static.hayapek.com.br/produtos/38402/500/1.jpg",
+            "Descrição": "Marca: GIANNINI",
+            "Imagens adicionais": []
+        },
+        {
+            "Nome": "Guitarra Giannini G100 Sunburst Com Escudo Tortoise",
+            "Código": "45302",
+            "Preço": "R$ 783,29",
+            "Imagem (URL)": "https://static.hayapek.com.br/produtos/45302/500/1.jpg",
             "Descrição": "Marca: GIANNINI",
             "Imagens adicionais": []
         },
